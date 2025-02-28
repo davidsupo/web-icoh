@@ -1,0 +1,694 @@
+{
+  "Banner": {
+    "firsttext": "3RD CONFERENCE OF THE ICOH SCIENTIFIC COMMITTEE ON OCCUPATIONAL MEDICINE",
+    "secondtext": "The Future and Opportunities for Occupational Medicine",
+    "date": "December 11 & 13, 2025",
+    "place": "UNIVERSITY OF PIURA - LIMA CAMPUS",
+    "address": "Calle Mártir José Olaya 162, Miraflores",
+    "button": "Save the Date"
+  },
+  "Home": {
+    "contador": {
+      "text": "LIVE THE BEST CONFERENCE 2025",
+      "description": "Conference starts on December 11, 2025",
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    },
+    "icoh": {
+      "title": "ICOH",
+      "firsttext": "The International Commission on Occupational Health (ICOH) is an international non-governmental professional society dedicated to promoting scientific progress, knowledge and the development of occupational health and safety.",
+      "secondtext": "Founded in 1906 in Milan as",
+      "strong": "Permanent Commission on Occupational Health",
+      "thirdtext": "Today it has more than 2,000 members from over 110 countries, being a world leader in occupational health",
+      "fourthtext": "Recognized by the United Nations as an NGO, it collaborates closely with the ILO and the WHO."
+    },
+    "Scom": {
+      "title": "SCOM",
+      "firsttext": "The Scientific Committee on Occupational Medicine (SCOM) of the ICOH is one of the oldest in the organization, with more than 120 members from nearly 45 countries.",
+      "secondtext": "Occupational Medicine is a medical specialty that addresses health risks in the workplace, including prevention, diagnosis, treatment and rehabilitation of work-related diseases.",
+      "thirdtext": "The understanding of Occupational Medicine is based on the",
+      "strong": "(Worker, Work, Workplace)",
+      "fourthtext": "Currently, the President of SCOM is Dr. Gogillan Sevaratnam (Malaysia) and the Secretary is Dr. Ade Mutiara (Indonesia)."
+    },
+    "Secre_Scom": {
+      "title": "ICOH National Secretariat for Peru",
+      "firsttext": "ICOH has National Secretaries (NS) in countries on all continents in the world. NSs represent ICOH and its activities in the country and region where they have been appointed and promote cooperation and communication between ICOH members in their country and region. SNs also build and strengthen ties between their country and region with the Scientific Committees and Board of Directors of ICOH. In Peru, the current National Secretary is",
+      "strong": "Dr. Norvil Mera Chu."
+    },
+    "information": {
+      "title": "3rd Conference of the Scientific Committee on Occupational Medicine",
+      "subtitle": "The Future and Opportunities for Occupational Medicine",
+      "firsttext": "The event is organized by the Peruvian National Secretariat of the International Commission on Occupational Health (ICOH) in collaboration with the Scientific Committee on Occupational Medicine (SCOM) and the Scientific Committee on Women, Health and Work.",
+      "secondtext": "The objective of this event is to promote the update on emerging occupational diseases, their impact on the population and prevention strategies, adopting a comprehensive approach that addresses medical, management and legal perspectives.",
+      "thirdtext": "The event is aimed at occupational physicians and occupational safety and health (OSH) professionals from Peru, neighboring countries and other regions of the world. Since its announcement at the 34th ICOH Congress in Marrakech, Morocco, it has generated great international interest.",
+      "fourthtext": "This conference will be held on",
+      "date": "December 11 to 13, 2025",
+      "place": "The University of Piura, Lima Campus, Lima, Peru.",
+      "topics": {
+        "text": "The main thematic axes of this event will be the following:",
+        "first": "Diagnosis and approach to occupational diseases",
+        "second": "Emerging diseases at work",
+        "third": "Exposure to occupational risks",
+        "fourth": "Legal aspects of OSH",
+        "fifth": "Cancer and Work",
+        "sixth": "Occupational toxicology",
+        "seventh": "Mental health and its work-related disorders",
+        "eighth": "Work-related musculoskeletal disorders"
+      }
+    }
+  },
+  "Menu": {
+    "firstOption": "Home",
+    "secondOption": "About Us",
+    "thirdOption": "Program",
+    "fourthOption": "Overview",
+    "fifthOption": "Speakers",
+    "sixthOption": "News",
+    "text": "Welcome to"
+  },
+  "Us": {
+    "title": "LEADING WITH EXPERIENCE",
+    "subtitle": "Key Voices in Occupational Medicine",
+    "subtitle2": "📢 We're updating the list of speakers! Stay tuned for more details.",
+    "Characters": {
+      "text": "CONGRESS ORGANIZING TEAM",
+      "subtitle": "Meet the key members who make this event possible. Each of them brings experience, dedication, and passion.",
+      "firstFoundling": {
+        "name": "Dr. Gogillan Sevaratnam",
+        "description": "Occupational Physician and Master in Public Health, currently serving as Vice President of the Malaysian Society of Occupational Health since 2018 and Chair of the ICOH Scientific Committee on Occupational Medicine. He is an active member of the ICOH Task Force for Process and Practice Modernization for the 2024-2027 period. Additionally, he serves as a guest lecturer at NIOSH Malaysia and the Department of Occupational Medicine at Kathmandu Medical College, Nepal.",
+        "description2": "With a deep interest and passion for occupational cancer, he has actively participated in numerous programs to raise awareness and visibility of this issue among employers and workers in his country."
+      },
+      "secondFoundling": {
+        "name": "Dr. Norvil Mera Chu",
+        "description": "Occupational Physician with a Master's in Occupational and Environmental Medicine, and a PhD candidate in Medicine. He has extensive experience as an occupational health consultant and medical surveillance advisor in companies across various sectors, as well as a lecturer in undergraduate and postgraduate programs. He is also recognized for his work as a researcher and speaker at academic events.",
+        "description2": "He has served on the Board of Directors of the Peruvian Society of Occupational Health and actively participates in ICOH Scientific Committees, including Occupational Health Epidemiology (EPICOH), Occupational Health for Small Enterprises and the Informal Sector (SCOHSSEIS), and Education and Training in Occupational Health (SCETOH). He is currently the National Secretary of ICOH for Peru."
+      },
+      "thirdFoundling": {
+        "name": "Dr. Miriam Panduro",
+        "description": "Occupational Physician with a Master's in Occupational and Environmental Health, Medical Auditor, with 14 years of experience in occupational health management and medical services. Experience in the Clinical and Assistance Sector; Health Management in industries such as Fishing, Hydrocarbons, Metal Mechanics, Construction, Transportation, Road Concessions, and Services; Implementation and Lead Auditor of Integrated Management Systems under ISO 9001, ISO 14001, ISO 45001 standards.",
+        "description2": "Member of the International Commission on Occupational Health (ICOH). Member of the ICOH Scientific Committee on Occupational Medicine (SCOM). Certified Occupational Hearing Conservationist by CAOHC (The Council for Accreditation in Occupational Hearing Conservation). Member of the Peruvian Society of Occupational Health (SOPESO)."
+      }
+    },
+    "SubComites": {
+      "title": "CONFERENCE SUBCOMMITTEES",
+      "subtitle": "We have 3 specialized subcommittees",
+      "first": {
+        "name": "Academic Review Subcommittee",
+        "members": {
+          "first": {
+            "name": "Gogillan Sevaratnam",
+            "descripcion": "Physician specialized in Public Health and Occupational Medicine, with extensive leadership and teaching experience at the international level. Vice President of the Malaysian Society of Occupational Health and Chair of the ICOH Scientific Committee on Occupational Medicine. Committed to modernizing occupational health processes and raising awareness about occupational cancer. Lecturer at NIOSH Malaysia and Kathmandu Medical College, Nepal."
+          },
+          "second": {
+            "name": "Norvil Mera Chu",
+            "descripcion": "Physician specialized in Occupational and Environmental Medicine, with outstanding academic training and international recognition. He has participated in occupational health training programs in Germany and Italy and has received multiple awards as a researcher at ICOH events and other international conferences. Currently, he is the National Secretary of ICOH for Peru and has served as a director of the Peruvian Society of Occupational Health (SOPESO)."
+          },
+          "third": {
+            "name": "Dr. Denis Barnaby",
+            "descripcion": "Surgeon and Master in Occupational Health from the National University of San Marcos, with extensive experience in occupational and environmental medicine. Active member of ICOH, ACOEM, ATS, SOPESO, and SOMOMA, with international certifications in safety, industrial hygiene, spirometry, and audiometry. He has participated in global occupational health congresses and is a guest lecturer at various Peruvian universities. Currently, he serves as Sub-Regional Medical Director and Medical Technology Leader at P&G for Latin America."
+          },
+          "fourth": {
+            "name": "Dr. Aquiles Monroy",
+            "descripcion": "Internist and Occupational Medicine specialist with a solid career in occupational health. He has worked at DOE RUN PERÚ and is currently the head of the CHULEC medical center. Former National Secretary of ICOH for Peru (2018-2021) and former director of SOPESO. Active member of various national and international medical societies. He has participated in ICOH congresses and meetings, including a presentation at the ICOH 2022 World Congress."
+          },
+          "fifth": {
+            "name": "Dr. Aldo Ccahuana",
+            "descripcion": "Physician specialized in Occupational and Environmental Medicine, with training in toxicology, occupational hygiene, and business management. Holds master’s degrees in entrepreneurship and health services management. Former President of the Peruvian Society of Occupational Health (SOPESO), with an outstanding career in occupational health and health management."
+          },
+          "sixth": {
+            "name": "Dr. Elizabeth Barba",
+            "descripcion": "Surgeon from UNMSM, with a Master’s in Occupational Health. Member of ACOEM, ICOH, MEDICHEM, SCOM, SOPESO, and SOMOMA. Experienced in university teaching and occupational health consulting for various companies."
+          },
+          "seventh": {
+            "name": "Dr. Sandra Albino Ramos",
+            "descripcion": "Surgeon (2003-2009) from the University of San Martín de Porres. Master in Environmental Health (2018-2019) from the University of the West of England Bristol and in Occupational Safety and Health (2015-2016) from the CIF-ILO – University of Turin. Experience in managing and implementing Occupational Health Management Systems in the financial sector (2014-2025). ICOH member, participating in congresses with scientific posters on occupational tuberculosis (Dublin 2018) and food safety in street vendors (2022)."
+          }
+        }
+      },
+      "second": {
+        "name": "Scientific Review Subcommittee",
+        "members": {
+          "first": {
+            "name": "Dr. Miriam Panduro",
+            "descripcion": "Occupational Physician with a Master’s in Occupational and Environmental Health and 14 years of experience in occupational health management and medical services. Specialist in industries such as fishing, hydrocarbons, metal mechanics, construction, and transportation. Lead auditor in integrated management systems (ISO 9001, 14001, 45001) and certified in hearing conservation by CAOHC. Active member of ICOH, SCOM, and SOPESO."
+          },
+          "second": {
+            "name": "Dr. Jate Ratanachina",
+            "descripcion": "Occupational Physician with a Master's Degree in Occupational and Environmental Health, and 10 years of experience in occupational health and industrial safety. Specialist in occupational risk management and leading auditor in quality, environmental and occupational health and safety management systems. Active member of ICOH, SCOM and SOPESO."
+          },
+          "third": {
+            "name": "Dr. Loubna Tahri",
+            "descripcion": "Associate Professor of Occupational Medicine at Hassan II University, Casablanca, and occupational health physician at SUEZ – Recycling and Waste Recovery. She was the president of the logistics committee, member of the scientific and organizing committee of the ICOH 2024 Congress in Morocco. She has worked as an occupational health physician at Four Seasons Hotel and other companies, with extensive experience in occupational health."
+          },
+          "fourth": {
+            "name": "Dr. Bala Murali Sundram",
+            "descripcion": "Senior Lecturer in Occupational and Environmental Health at the University of Malaya, Kuala Lumpur, and an occupational health physician. Public Health specialist with expertise in epidemiology, disease surveillance, mental health and psychosocial biomarkers at work. He has held key roles in the Malaysian Ministry of Health before joining academia."
+          }
+        }
+      },
+      "third": {
+        "name": "Planning and Logistics Subcommittee",
+        "members": {
+          "first": {
+            "name": "Melissa Chuquillanqui Sernaqué",
+            "descripcion": "Lawyer and Master in Occupational Safety and Health, with over 12 years of experience in labor management and supervision. Specialist in psychosocial risks, workplace harassment, and OSH with a gender perspective. ICOH member and postgraduate lecturer."
+          },
+          "second": {
+            "name": "Dr. None Landauro",
+            "descripcion": "Industrial Safety and Hygiene Engineer with a Master's degree in Occupational Safety and Health. With 20 years of experience in safety, health and the environment in various sectors. He has led teams in Latin America and has been a professor at UNI, PUCP, UDEP, UNMSM, UPCH and UPC."
+          },
+          "third": {
+            "name": "Abg. Karla Giamnina Canova Talledo",
+            "descripcion": "Lawyer from the University of Lima, with a Master's degree in Occupational Safety and Health from the University of Turin (ILO) and in Labor Relations and Human Capital Management from the PUCP. Specialist in Labor Law and Public Policies. Founding partner of LABORA&ASOCIADOS SAC and Director of the Specialization Program in Safety, Health and Well-being at the UPC. Professor at the University of Lima and the Universidad El Bosque (Colombia)."
+          },
+          "fourth": {
+            "name": "Mirella Bernal Suárez",
+            "descripcion": ""
+          },
+          "fifth": {
+            "name": "Cynthia Bustamante",
+            "descripcion": ""
+          },
+          "sixth": {
+            "name": "César Puma",
+            "descripcion": ""
+          }
+        }
+      }
+    },
+    "Sponsors": {
+      "title": "SPONSORS",
+      "subtitle": "We invite you to be part of this great ICOH event that will take place in Lima, Peru. You can contact us for more information through the following email: scomlima2025@gmail.com with copy to msadnmch@hotmail.com",
+      "tag": "Sponsors"
+    },
+    "Co-organizers": {
+      "title": "ACADEMIC SPONSORS",
+      "tag": "Academic Sponsors"
+    }
+  },
+  "Program": {
+    "title": "CONFERENCE PROGRAM",
+    "subtitle": "Check out the detailed conference itinerary",
+    "subtitle2": "📢 Remember that this program may be subject to change, however what is shown is the most updated",
+    "title1": "OUR PROGRAM",
+    "subtitle1": "Explore the presentations and activities that will make this event an unforgettable experience",
+    "first": "Day 1",
+    "second": "Day 2",
+    "third": "Day 3",
+    "moderator": "Moderator",
+    "panelists": "Panelists",
+    "day1Schedule": {
+      "first": {
+        "time": "19:00 - 19:45",
+        "title": "Presentation Speech",
+        "details": "The role of government in occupational health and safety: public policies that prioritize the well-being of workers"
+      },
+      "second": {
+        "time": "19:45 - 22:00",
+        "title": "Official Opening and Awards Ceremony Gala Dinner"
+      }
+    },
+    "day2Schedule": {
+      "first": {
+        "time": "07:30 - 08:30",
+        "title": "Registration"
+      },
+      "second": {
+        "time": "08:30 - 09:15",
+        "title": "Plenary Session I",
+        "details": "Occupational health in Peru: facts and figures"
+      },
+      "third": {
+        "time": "09:15 - 09:30",
+        "title": "Coffee break"
+      },
+      "fourth": {
+        "time": "09:30 - 10:15",
+        "title": "Plenary Session II",
+        "details": "The causal link of occupational diseases"
+      },
+      "fifth": {
+        "time": "10:15 - 11:00",
+        "title": "Plenary Session III",
+        "details": "Heat at work: a global burden for workers"
+      },
+      "sixth": {
+        "time": "11:10 - 11:55",
+        "details": {
+          "first": "Semiplenary I",
+          "details": "Approaches to workplace noise management: a success story"
+        },
+        "second": {
+          "title": "Semiplenary II",
+          "details": "The challenges of musculoskeletal disorders and teleworking"
+        }
+      },
+      "seventh": {
+        "time": "11:55 - 12:40",
+        "details": {
+          "first": "Semiplenary III",
+          "details": "Work disability programs: experiences in Latin America"
+        },
+        "second": {
+          "title": "Semiplenary IV",
+          "details": "Evaluation and management of workers' mental health: the tool"
+        }
+      },
+      "eighth": {
+        "time": "12:40 - 14:00",
+        "title": "Lunch and poster review"
+      },
+      "nineth": {
+        "time": "14:00 - 15:30",
+        "title": "Oral Presentations",
+        "details": "Distributed in different sessions"
+      },
+      "tenth": {
+        "time": "15:40 - 16:40",
+        "title": "Special Sessions",
+        "details": {
+          "first": {
+            "title": "Special Sessions I",
+            "details": "Occupational asthma: diagnosis and treatment",
+            "moderator": "SCOM",
+            "panelists": "Invited speakers from SC and Scientific Societies"
+          },
+          "second": {
+            "title": "Special Sessions II",
+            "details": "Preventing musculoskeletal disorders in the workplace: the best programs",
+            "moderator": "ICOH",
+            "panelists": "Invited speakers from SC and Scientific Societies"
+          }
+        }
+      },
+      "eleventh": {
+        "time": "16:40 - 17:00",
+        "title": "Coffee break"
+      },
+      "twelfth": {
+        "time": "19:00 - 19:45",
+        "title": "Working meetings of the national secretaries of the ICOH"
+      },
+      "thirteenth": {
+        "time": "19:45 - 22:00",
+        "title": "Peruvian Cultural Night"
+      }
+    },
+    "day3Schedule": {
+      "first": {
+        "time": "07:30 - 08:30",
+        "title": "Registration"
+      },
+      "second": {
+        "time": "08:30 - 09:15",
+        "title": "Plenary Session IV",
+        "details": "Occupational Toxicology: Intervention after Occupational Diseases: Overview from Medical, Engineering, Human Resources and Legal Perspectives"
+      },
+      "third": {
+        "time": "09:15 - 09:30",
+        "title": "Coffee Break"
+      },
+      "fourth": {
+        "time": "09:30 - 10:15",
+        "title": "Plenary Session V",
+        "details": "Work-Related Cancer Risk Factors"
+      },
+      "fifth": {
+        "time": "10:15 - 11:00",
+        "title": "Plenary Session VI",
+        "details": "Disability and Work"
+      },
+      "sixth": {
+        "time": "11:10 - 11:55",
+        "details": {
+          "first": {
+            "title": "Semiplenary V",
+            "details": "Guide to Risk Management with a Gender Perspective",
+            "subdetails": "Women's Health and Work in South Carolina"
+          },
+          "second": {
+            "title": "Semiplenary VI",
+            "details": "Sleep disorders and occupational health: evaluation and management"
+          }
+        }
+      },
+      "seventh": {
+        "time": "11:55 - 12:40",
+        "details": {
+          "first": {
+            "title": "Semiplenary VII",
+            "details": "KIV - TBC - SCOM"
+          },
+          "second": {
+            "title": "Semiplenary VIII",
+            "details": "TBC"
+          }
+        }
+      },
+      "eighth": {
+        "time": "12:40 - 14:00",
+        "title": "Lunch and poster review"
+      },
+      "nineth": {
+        "time": "14:00 - 15:30",
+        "title": "Oral Presentations",
+        "details": "Distributed in different sessions"
+      },
+      "tenth": {
+        "time": "15:40 - 16:40",
+        "details": {
+          "first": {
+            "title": "Special Sessions III",
+            "details": "Disability and impairment: impact on the work environment",
+            "moderator": "SCOM",
+            "panelists": "Guests from SC and Scientific Societies"
+          },
+          "second": {
+            "title": "Special Sessions IV",
+            "details": "Mental health: challenges and opportunities",
+            "moderator": "ICOH",
+            "panelists": "Guests from SC and Scientific Societies"
+          }
+        }
+      },
+      "eleventh": {
+        "time": "16:40 - 17:00",
+        "title": "Coffee break"
+      },
+      "twelfth": {
+        "time": "19:00 - 22-00",
+        "title": "Ceremony of Closing - Toast"
+      }
+    }
+  },
+  "Abstract": {
+    "title": "ABSTRACT",
+    "subtitle": "Be part of our team!",
+    "components": {
+      "first": {
+        "title": "INSTRUCTIONS FOR SUBMISSION OF ABSTRACTS",
+        "subtitle": "We invite you to register your research abstracts so that they can be reviewed and presented at the conference, either as an oral presentation or as a poster.",
+        "firsttext": "Please follow the following instructions:",
+        "secondtext": "Your abstract must have the following name:",
+        "strongfirst": "FAMILY LAST_FAMILY LAST_NAMES",
+        "thirdtext": "If you submit more than 1 abstract, please add the number as follows:",
+        "strongsecond": "FAMILY LAST_FAMILY LAST_NAMES_2",
+        "fourthtext": "After that, you can send your abstract to the following email:"
+      },
+      "lines_of_research": {
+        "title": "LINES OF RESEARCH",
+        "subtitle": " Remember that the lines of research that are being considered in this event are the following:",
+        "first": "Occupational Medical Surveillance",
+        "second": "Dermatological diseases in workers",
+        "third": "Cardiovascular diseases in workers",
+        "fourth": "Metabolic diseases in workers",
+        "fifth": "Occupational cancer",
+        "sixth": "Hearing pathology of occupational origin",
+        "seventh": "Respiratory diseases of occupational origin",
+        "eighth": "Musculoskeletal disorders in workers",
+        "nineth": "Mental Health at Work and Psychosocial risks at work",
+        "tenth": "Work accidents",
+        "eleventh": "Women, Health and Work",
+        "twelfth": "Small and Medium Enterprises and the Informal Sector",
+        "thirteenth": "Occupational Health Education",
+        "fourteenth": "Occupational Health Management",
+        "fifteenth": "Occupational Hygiene",
+        "sixteenth": "OSH Risk Management",
+        "seventeenth": "Occupational Toxicology",
+        "eighteenth": "Climate Change and Workers' Health",
+        "nineteenth": "OSH and Occupational Medicine Legislation"
+      }
+    }
+  },
+  "Speaker": {
+    "title": "VOICES THAT INSPIRE",
+    "subtitle": "Stories, learnings and perspectives that make a difference",
+    "title2": "SPEAKERS",
+    "subtitle2": "Meet the experts who will share their knowledge at the conference",
+    "International": {
+      "title": "International Speakers",
+      "first": {
+        "name": "Dr. Gogillan Severatnam",
+        "Nationality": "Malaysia",
+        "description": "He holds a degree in Medicine from Ramaiah Medical College (India), Master of Public Health from University Malaya (Malaysia). He is the Vice President of the Occupational Health Society of Malaysia since 2018 and the Chair of the Scientific Committee on Occupational Medicine of the International Commission on Occupational Health (ICOH). He is a member of the ICOH Process and Practice Modernization Working Group for 2024-2027. He is a visiting lecturer for NIOSH Malaysia and a lecturer in Occupational Medicine at Kathmandu Medical College, Nepal. With an interest and passion for Occupational Cancer, he has participated in many programs to raise awareness and visibility of this issue among employers and workers and his country."
+      },
+      "second": {
+        "name": "Dr. Ade Mutiara",
+        "Nationality": "Indonesia",
+        "description": "Physician from Universitas Indonesia (Indonesia), Specialist in Occupational Medicine and Master in Occupational Medicine from the same university. She is Secretary of the Scientific Committee on Occupational Medicine of the International Commission on Occupational Health (ICOH) and Treasurer of the International Section of the American College of Occupational and Environmental Medicine (ACOEM)."
+      },
+      "third": {
+        "name": "Dr. Brett Shannon",
+        "Nationality": "Australia",
+        "description": "Physician from the University of Queensland (Australia), Master's in Applied Epidemiology from the Australian National University, PhD in Occupational and Environmental Health Sciences from the University of Illinois, Chicago, USA."
+      },
+      "fourth": {
+        "name": "Dr. Vishnumohan Janardhanam",
+        "Nationality": "India",
+        "description": "Physician from Madras University (India) and Fellow in Occupational Health from the Central Labour Institute in Mumbai (India). With experience as an occupational physician in different sectors for more than 28 years."
+      },
+      "fifth": {
+        "name": "Moazzam Ali Zaidi",
+        "Nationality": "New Zealand",
+        "description": "He holds a PhD from the University of Karachi (Pakistan), a Master of Public Health from the University of Karachi (Pakistan), a Diploma in Industrial Health from the University of Toronto and a PhD in Occupational Medicine from the University of Otago. He has been National Secretary of the International Commission on Occupational Health in Saudi Arabia. He is a lecturer in the Department of Preventive and Social Medicine at the University of Otago. He is the Clinical Director at the Makoha Rest Home, Hospital & Rehabilitation in New Zealand."
+      },
+      "sixth": {
+        "name": "Dr. Diana Cuervo",
+        "Nationality": "Colombia",
+        "description": "Physician from the Pontifica Universidad Javeriana (Colombia), Specialist in Occupational Health from the Jorge Tadeo Lozano University, PhD in Public Health from the University of Toronto (Canada) where she participated in the training program in Prevention of Occupational Disability."
+      }
+    },
+    "Nationals": {
+      "title": "National Exhibitors",
+      "first": {
+        "name": "Dr. Denis Barnaby",
+        "Nationality": "Peru",
+        "description": "Physician from the Universidad Nacional Mayor de San Marcos, Master in Occupational Health from the Universidad Nacional Mayor de San Marcos. Past National Secretary of the International Commission on Occupational Health (ICOH) for Peru. Current Latin-American Regional Medical Technology Owner and Occupational Physician for Procter / Gumble. Official Certifier for CAOHC Hearing Conservationist, NIOSH Spirometry. Member of the American College of Occupational and Environmental Medicine (ACOEM)."
+      },
+      "second": {
+        "name": "Dr. Aquiles Monroy",
+        "Nationality": "Peru",
+        "description": "Physician from the Universidad Nacional Mayor de San Marcos, internist from the Universidad Federico Villarreal and specialist in Occupational Medicine from the Universidad San Martín de Porres. He has been an occupational physician at DOE RUN PERU and is currently head of the CHULEC medical center of the same company. Past National Secretary of ICOH Peru and former director of SOPESO."
+      },
+      "third": {
+        "name": "Dr. Aldo Ccahuana",
+        "Nationality": "Peru",
+        "description": "Physician from the Peruvian University Cayetano Heredia, specialist in Occupational and Environmental Medicine from the same institution. Occupational physician from the Federal University Rio Grande Do Sul, toxicologist from the Catholic University of Rio Grande Do Sul and occupational hygienist from the University of Sao Paulo. Master in Entrepreneurship and Business Management from PUCP, and in Health Services Management from ESAN. Past President of the Peruvian Society of Occupational Health (SOPESO)."
+      },
+      "fourth": {
+        "name": "Dr. Jonh Astete",
+        "Nationality": "Peru",
+        "description": "Physician from the Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca, Bolivia. Specialist in Occupational Medicine from the Universidad San Martín de Porres. Master in Occupational and Environmental Health from the UNMSM and in Quality, Safety and Environmental Management from the University of Viña del Mar. With doctoral studies in Neurosciences from the UNMSM. Current President of SOPESO and Past President of ALSO."
+      },
+      "fifth": {
+        "name": "Dr. Norvil Mera Chu",
+        "Nationality": "Peru",
+        "description": "Physician from the Antenor Orrego Private University, Master in Occupational and Environmental Medicine and Candidate for a Doctorate in Medicine from the Peruvian University Cayetano Heredia. Specialization in Occupational Health and Occupational Medicine from the UNMSM and Diploma in Organizational Leadership and Emotional Intelligence from the PUCP. He has participated in training in Occupational Health at the Ludwig Maximilians University of Munich and the University of Brescia. Recognized with the Early Career Researcher Award at ICOH symposia and by the OEHF at the AOHC 2022. Current National Secretary of ICOH Peru and former director of the Northern region at SOPESO."
+      },
+      "sixth": {
+        "name": "Dra. Miriam Panduro",
+        "Nationality": "Perú",
+        "description": "Occupational Physician with a Master's Degree in Occupational and Environmental Health and Medical Auditing. More than 14 years of experience in occupational health management and medical services in sectors such as industry, fisheries, hydrocarbons, metalworking, construction, transportation and road concessions. Specialist in implementation and auditing of Integrated Management Systems under ISO 9001, ISO 14001 and ISO 45001 standards. Member of ICOH and its Scientific Committee on Occupational Medicine (SCOM). Physician certified as a Hearing Conservationist by CAOHC and member of SOPESO."
+      },
+      "seventh": {
+        "name": "Dr. Andrés Arce",
+        "Nationality": "Perú",
+        "description": "Physician from the Universidad San Martín de Porres, specialist in Occupational and Environmental Medicine from the same institution. Master in Occupational Health from the UNMSM, in Ergonomics from the University of Girona and in Occupational Safety and Health from the Ludwig Maximilians Universität in Munich, Germany. Current President of the Peruvian Society of Ergonomics (SOPERGO) and Vice President of the Latin American Union of Ergonomics (ULAERGO)."
+      },
+      "eighth": {
+        "name": "Melissa Chuquillanqui Sernaqué",
+        "Nationality": "Perú",
+        "description": "Lawyer and Master in Occupational Health and Safety from the University of Piura. Specialized in sexual harassment at work, SST management in the face of pandemics, psychosocial risks (CENSOPAS COPSOQ), security with a gender and age focus, and administrative sanctioning law. Member of ICOH and the Peruvian Section of Young Jurists. Certified as an expert in Data Protection. Postgraduate teacher and speaker at national and international forums. More than 12 years of experience in management, technical-legal advice and supervision in labor and SST matters in various economic sectors."
+      },
+      "nineth": {
+        "name": "Dr. None Landauro",
+        "Nationality": "Perú",
+        "description": "Industrial Safety and Hygiene Engineer from the National University of Engineering, with Master's studies in Safety and Health at Work from the same university. With 20 years of experience in safety, health and the environment in various sectors. He has led teams in Latin America and has been a professor at UNI, PUCP, UDEP, UNMSM, UPCH and UPC."
+      },
+      "tenth": {
+        "name": "Elizabeth Barba",
+        "Nationality": "Perú",
+        "description": "Surgeon graduated from the Universidad Nacional Mayor de San Marcos, with Master's studies in Occupational Health at the same institution. Member of ACOEM, ICOH, MEDICHEM, SCOM, SOPESO and SOMOMA. Guest lecturer on Occupational Health at UNMSM and other universities. External consultant in Occupational Health for various companies."
+      }
+    }
+  },
+  "Get-involved": {
+    "title": "JOIN OUR CONFERENCE!",
+    "subtitle": "Be part of this unique event",
+    "pretext": "Participating in this conference is very easy: just fill out the registration form so we can get in touch with you and secure your spot. Remember, places are limited and fill up quickly.",
+    "strong": "Don't miss out!"
+  },
+  "New": {
+    "title": "NEWS",
+    "title2": "LATEST NEWS",
+    "subtitle": "Stay informed about the latest news from the conference",
+    "subtitle2": "Discover the latest publications and articles of interest",
+    "articles": {
+      "title": "ARTICLES AND PUBLICATIONS",
+      "first": {
+        "title": "ICOH Newsletter 2024",
+        "subtitle": "ICOH Newsletter",
+        "descripcion": "In this newsletter, we highlight the progress made by the Scientific Committees in strengthening key initiatives in occupational safety and health, promoting collaboration and scientific excellence.",
+        "descripcion2": "We also share information about the World Festival on Safety and Health at Work, a global event that will bring together experts and leaders to explore innovations, technologies and best practices in the workplace.",
+        "year": "2024",
+        "volume": "Volume 2",
+        "button": "View Newsletter"
+      },
+      "second": {
+        "title": "Assessing physical fitness for night shift jobs: physiological considerations and practical adaptations",
+        "author": "Authors",
+        "nameAutor": {
+          "first": "SC OM",
+          "second": "Moazzam Ali Zaidi",
+          "third": "Gogillan Sevaratnam",
+          "fourth": "Aiggan Kitila"
+        },
+        "descripcion": "The article addresses the need to adapt physical assessments for night shift workers, considering the effects of disturbed sleep and fatigue on their health and performance. Propose adjustments for fairer and more accurate assessments.",
+        "button": "Read article in PDF"
+      },
+      "third": {
+        "title": "From Northern Peru to Northern Africa: a long journey full of learning, inspiration and memories from the 34th ICOH Congress",
+        "author": "Author",
+        "nameAutor": "Norvil Mera Chú, NS for Peru",
+        "descripcion": "",
+        "button": "Read article in PDF"
+      },
+      "fourth": {
+        "title": "9th SC OM Webinar: Occupational Skin Disorders",
+        "author": "Authors",
+        "nameAutor": {
+          "first": "Gogillan Sevaratnam, SC Chair",
+          "second": "Ade Mutiara, SC Secretary"
+        },
+        "descripcion": "",
+        "button": "Read article in PDF"
+      },
+      "fifth": {
+        "title": "ICOH National Secretaries from the “Global South” collaborate to organize a webinar on “OSH in mining”",
+        "author": "Authors",
+        "nameAutor": {
+          "first": "Diana Cuervo, NS for Colombia",
+          "second": "Adolfo Hernández, NS for Argentina",
+          "third": "Norvil Mera Chú, NS for Peru",
+          "fourth": "Claudina Nogueira, NS for South Africa"
+        },
+        "descripcion": "",
+        "button": "Read article in PDF"
+      },
+      "sixth": {
+        "title": "A multidisciplinary and participatory approach to Occupational Safety and Health to address the challenges related to Emerging Diseases in workers",
+        "author": "Authors",
+        "nameAutor": "Norvil Mera Chú, NS for Peru",
+        "descripcion": "",
+        "button": "Read article in PDF"
+      }
+    },
+    "events": {
+      "title": "UPCOMING EVENTS",
+      "subtitle": "Discover upcoming events and activities related to Occupational Medicine",
+      "first": {
+        "title": "Shiftwork and workers health: from research to prevention",
+        "date": "Date: March 19, 2025",
+        "time": "12:00 pm (Peru time)"
+      },
+      "second": {
+        "title": "Safety and Health at Work Month: The Impact of Digitalization and Artificial Intelligence on worker´s health",
+        "date": "Date: April 2, 2025",
+        "time": "2:00 pm (Peru time)"
+      },
+      "third": {
+        "title": "Strategies for Cardiovascular and Metabolic Diseases Prevention in workers",
+        "date": "Date: May 22, 2025",
+        "time": ""
+      }
+    }
+  },
+  "Contact": {
+    "costs": {
+      "title": "Learn about our costs by clicking here",
+      "text": "Cost table",
+      "button": "Costs",
+      "subtitle": "Participants",
+      "earlyBird": "Early bird fee USD",
+      "regular": "Regular registration fee USD",
+      "categories": {
+        "ICOH_Member": {
+          "type": "ICOH Member in Good Condition",
+          "countries": {
+            "high_income": {
+              "name": "High-income countries",
+              "early_bird": 280,
+              "regular": 380
+            },
+            "low_middle_income": {
+              "name": "Low and middle income countries",
+              "early_bird": 230,
+              "regular": 330
+            }
+          }
+        },
+        "Non_ICOH_Member": {
+          "type": "Non-ICOH Members",
+          "countries": {
+            "high_income": {
+              "name": "High-income countries",
+              "early_bird": 330,
+              "regular": 430
+            },
+            "low_middle_income": {
+              "name": "Low and middle-income countries",
+              "early_bird": 280,
+              "regular": 380
+            }
+          }
+        },
+        "Students": {
+          "type": "Students",
+          "countries": {
+            "high_income": {
+              "name": "High-income countries",
+              "early_bird": 210,
+              "regular": 260
+            },
+            "low_middle_income": {
+              "name": "Low and middle-income countries",
+              "early_bird": 130,
+              "regular": 180
+            }
+          }
+        }
+      }
+    },
+    "title": "Sign up for our conference now",
+    "subtitle": "Don't miss the opportunity to be part of this event",
+    "name": "Name",
+    "country": "Select your country",
+    "socioeconomic": "Select your socioeconomic level",
+    "link": "Check if your country is included in this ranking",
+    "subject": "Subject",
+    "email": "Email",
+    "isassociated": "Are you a member of ICOH?",
+    "code": "ICOH Associate Code",
+    "academic": {
+      "title": "Are you a student?",
+      "undergraduate": "Undergraduate",
+      "undergraduateMessage": "You must state your academic level",
+      "postgraduate": "Postgraduate",
+      "options": {
+        "second": "Master's",
+        "third": "Doctorate",
+        "fourth": "Post-Doctorate"
+      },
+      "select": "Select an option"
+    },
+    "message": "ICOH Partner Code",
+    "phone": "WhatsApp Number",
+    "submit": "Send",
+    "processing": "Processing..."
+  },
+  "Footer": {
+    "copyright": "All rights reserved."
+  }
+}
