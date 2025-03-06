@@ -48,10 +48,10 @@ export async function POST(request: NextRequest) {
             ? `<p><strong>Código ICOH:</strong> ${ICOHCode}</p>`
             : ""
         }
-        <p><strong>Estado Académico:</strong> ${academicStatus}</p>
+        <p><strong>Tipo de Estudiante:</strong> ${academicStatus}</p>
         ${
           academicStatus === "PostGrado"
-            ? `<p><strong>Nivel Académico:</strong> ${academicLevel}</p>`
+            ? `<p><strong>Cursando estudios de:</strong> ${academicLevel}</p>`
             : ""
         }
       `,

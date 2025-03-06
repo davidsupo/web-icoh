@@ -615,7 +615,7 @@
       "regular": "Regular registration fee USD",
       "categories": {
         "ICOH_Member": {
-          "type": "ICOH Member in Good Condition",
+          "type": "ICOH Member in Good Standing",
           "countries": {
             "high_income": {
               "name": "High-income countries",
@@ -666,6 +666,8 @@
     "name": "Name",
     "country": "Select your country",
     "socioeconomic": "Select your socioeconomic level",
+    "socioeconomic-high-income": "High income",
+    "socioeconomic-low-middle-income": "Low and Middle income",
     "link": "Check if your country is included in this ranking",
     "subject": "Subject",
     "email": "Email",
@@ -690,5 +692,8 @@
   },
   "Footer": {
     "copyright": "All rights reserved."
+  },
+  "Language": {
+    "cod": "en"
   }
 }

@@ -35,6 +35,7 @@ import {
 } from "@/components/ui/table";
 import * as React from "react";
 import { errorToast, successToast } from "@/lib/utils/core.function";
+import { getCountries } from "@/lib/utils";
 
 const Contact = z.object({
   name: z.string().min(1, "El nombre no puede estar vacío"),
@@ -57,9 +58,10 @@ export default function FormContact() {
   const [academicStatus, setAcademicStatus] = useState("");
 
   const t = useTranslations("Contact");
+  const tLanguage = useTranslations("Language");
   const tCosts = useTranslations("Contact.costs");
 
-  const ecomomicLevels = ["Alto", "Bajo-Medio"];
+  const ecomomicLevels = ["high-income", "low-middle-income"];
 
   const form = useForm<z.infer<typeof Contact>>({
     resolver: zodResolver(Contact),
@@ -78,6 +80,11 @@ export default function FormContact() {
   });
 
   const onSubmit = async (data: z.infer<typeof Contact>) => {
+    data = {
+      ...data,
+      country: countrys.find(country => country.cod === data.country)?.name || '',
+      socioEconomicLevel: t(`socioeconomic-${data.socioEconomicLevel}`)
+    };
     console.log("Iniciando envío del formulario");
     setIsSubmitting(true);
     try {
@@ -110,45 +117,8 @@ export default function FormContact() {
     }
   };
   //todos los paises
-  const countrys = [
-    { name: "Perú", value: "peru" },
-    { name: "Chile", value: "chile" },
-    { name: "Colombia", value: "colombia" },
-    { name: "Argentina", value: "argentina" },
-    { name: "Ecuador", value: "ecuador" },
-    { name: "Bolivia", value: "bolivia" },
-    { name: "Paraguay", value: "paraguay" },
-    { name: "Uruguay", value: "uruguay" },
-    { name: "Venezuela", value: "venezuela" },
-    { name: "Brasil", value: "brasil" },
-    { name: "México", value: "mexico" },
-    { name: "Estados Unidos", value: "estados_unidos" },
-    { name: "Canadá", value: "canada" },
-    { name: "España", value: "españa" },
-    { name: "Francia", value: "francia" },
-    { name: "Italia", value: "italia" },
-    { name: "Alemania", value: "alemania" },
-    { name: "Reino Unido", value: "reino_unido" },
-    { name: "China", value: "china" },
-    { name: "Japón", value: "japon" },
-    { name: "Corea del Sur", value: "corea_del_sur" },
-    { name: "India", value: "india" },
-    { name: "Australia", value: "australia" },
-    { name: "Nueva Zelanda", value: "nueva_zelanda" },
-    { name: "Sudáfrica", value: "sudafrica" },
-    { name: "Egipto", value: "egipto" },
-    { name: "Rusia", value: "rusia" },
-    { name: "Turquía", value: "turquia" },
-    { name: "Arabia Saudita", value: "arabia_saudita" },
-    { name: "Emiratos Árabes Unidos", value: "emiratos_arabes_unidos" },
-    { name: "Qatar", value: "qatar" },
-    { name: "Kuwait", value: "kuwait" },
-    { name: "Irán", value: "iran" },
-    { name: "Irak", value: "irak" },
-    { name: "Siria", value: "siria" },
-    { name: "Líbano", value: "libano" },
-    { name: "Jordania", value: "jordania  " },
-  ];
+  const codLang = tLanguage("cod");
+  const countrys = getCountries(codLang);
 
   return (
     <FormProvider {...form}>
@@ -193,8 +163,8 @@ export default function FormContact() {
                 <SelectContent>
                   {countrys.map((country) => (
                     <SelectItem
-                      key={country.value}
-                      value={country.value}
+                      key={country.cod}
+                      value={country.cod}
                       className="text-gray-700"
                     >
                       {country.name}
@@ -228,7 +198,7 @@ export default function FormContact() {
                       value={level}
                       className="text-gray-700"
                     >
-                      {level}
+                      {t(`socioeconomic-${level}`)}
                     </SelectItem>
                   ))}
                 </SelectContent>

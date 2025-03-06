@@ -616,7 +616,7 @@
       "regular": "Tarifa de inscripción regular USD",
       "categories": {
         "ICOH_Member": {
-          "type": "ICOH Member en Buen Estado",
+          "type": "ICOH Member in Good Standing",
           "countries": {
             "high_income": {
               "name": "Países de altos ingresos",
@@ -667,6 +667,8 @@
     "name": "Nombre",
     "country": "Selecciona su país",
     "socioeconomic": "Seleccion su nivel socioeconómico",
+    "socioeconomic-high-income": "Alto",
+    "socioeconomic-low-middle-income": "Bajo-Medio",
     "link": "Revisa si tu país figura en esta clasificación",
     "subject": "Asunto",
     "email": "Correo Electrónico",
@@ -691,5 +693,8 @@
   },
   "Footer": {
     "copyright": "Todos los derechos reservados."
+  },
+  "Language": {
+    "cod": "es"
   }
 }
