@@ -1,6 +1,6 @@
 {
   "Banner": {
-    "firsttext": "3ERA CONFERENCIA DEL COMITÉ CIENTÍFICO ICOH EN MEDICINA OCUPACIONAL",
+    "firsttext": "3ERA CONFERENCIA DEL COMITÉ CIENTÍFICO DE MEDICINA OCUPACIONAL DE ICOH",
     "secondtext": "El Futuro y oportunidades para la Medicina Ocupacional",
     "date": "Diciembre 11 al 13 , 2025",
     "place": "UNIVERSIDAD DE PIURA - CAMPUS LIMA",
@@ -40,7 +40,7 @@
     "information": {
       "title": "3era Conferencia del Comité Científico de Medicina Ocupacional",
       "subtitle": "El Futuro y oportunidades para la Medicina Ocupacional",
-      "firsttext": "El evento es organizado por la Secretaría Nacional de Perú de la Comisión Internacional de Salud Ocupacional (ICOH) en colaboración con el Comité Científico de Medicina Ocupacional (SCOM) y el Comité Científico de Mujer, Salud y Trabajo.",
+      "firsttext": "El evento es organizado por la Secretaría Nacional de Perú de la Comisión Internacional de Salud Ocupacional (ICOH) en colaboración con el Comité Científico de Medicina Ocupacional (SCOM).",
       "secondtext": "El objetivo de este evento es promover la actualización sobre las enfermedades ocupacionales emergentes, su impacto en la población y las estrategias de prevención, adoptando un enfoque integral que aborde perspectivas médicas, de gestión y legales.",
       "thirdtext": "El evento está dirigido a médicos ocupacionales y profesionales de seguridad y salud en el trabajo (SST) de Perú, países vecinos y otras regiones del mundo. Desde su anuncio en el 34º Congreso de ICOH en Marrakech, Marruecos, ha generado gran interés internacional.",
       "fourthtext": "Esta conferencia se llevará a cabo el",
@@ -55,7 +55,9 @@
         "fifth": "Cancer y Trabajo",
         "sixth": "Toxicología ocupacional",
         "seventh": "Salud mental y sus trastornos relacionados al trabajo",
-        "eighth": "Trastornos músculo-esqueléticos relacionados al trabajo"
+        "eighth": "Trastornos músculo-esqueléticos relacionados al trabajo",
+        "ninth": "Discapacidad y Trabajo",
+        "tenth": "Ergonomia y SST en los ambientes de trabajo"
       }
     }
   },
@@ -427,6 +429,7 @@
     "subtitle": "Historias, aprendizajes y perspectivas que hacen la diferencia",
     "title2": "EXPOSITORES",
     "subtitle2": "Conoce a los expertos que compartirán sus conocimientos en la conferencia",
+    "information": "*Esta sección se irá actualizando en los siguientes meses",
     "International": {
       "title": "Expositores Internacionales",
       "first": {
@@ -679,6 +682,7 @@
       "undergraduate": "Pregrado",
       "undergraduateMessage": "Debe hacer constar su nivel académico",
       "postgraduate": "Postgrado",
+      "notstudent": "No",
       "options": {
         "second": "Maestría",
         "third": "Doctorado",

@@ -40,7 +40,7 @@
     "information": {
       "title": "3rd Conference of the Scientific Committee on Occupational Medicine",
       "subtitle": "The Future and Opportunities for Occupational Medicine",
-      "firsttext": "The event is organized by the Peruvian National Secretariat of the International Commission on Occupational Health (ICOH) in collaboration with the Scientific Committee on Occupational Medicine (SCOM) and the Scientific Committee on Women, Health and Work.",
+      "firsttext": "The event is organized by the Peruvian National Secretariat of the International Commission on Occupational Health (ICOH) in collaboration with the Scientific Committee on Occupational Medicine (SCOM).",
       "secondtext": "The objective of this event is to promote the update on emerging occupational diseases, their impact on the population and prevention strategies, adopting a comprehensive approach that addresses medical, management and legal perspectives.",
       "thirdtext": "The event is aimed at occupational physicians and occupational safety and health (OSH) professionals from Peru, neighboring countries and other regions of the world. Since its announcement at the 34th ICOH Congress in Marrakech, Morocco, it has generated great international interest.",
       "fourthtext": "This conference will be held on",
@@ -55,7 +55,9 @@
         "fifth": "Cancer and Work",
         "sixth": "Occupational toxicology",
         "seventh": "Mental health and its work-related disorders",
-        "eighth": "Work-related musculoskeletal disorders"
+        "eighth": "Work-related musculoskeletal disorders",
+        "ninth": "Disability and work",
+        "tenth": "Ergonomics and OHS at the workplace"
       }
     }
   },
@@ -427,6 +429,7 @@
     "subtitle": "Stories, learnings and perspectives that make a difference",
     "title2": "SPEAKERS",
     "subtitle2": "Meet the experts who will share their knowledge at the conference",
+    "information": "*This section will be updated in the coming months",
     "International": {
       "title": "International Speakers",
       "first": {
@@ -678,6 +681,7 @@
       "undergraduate": "Undergraduate",
       "undergraduateMessage": "You must state your academic level",
       "postgraduate": "Postgraduate",
+      "notstudent": "No",
       "options": {
         "second": "Master's",
         "third": "Doctorate",

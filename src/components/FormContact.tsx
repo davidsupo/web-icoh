@@ -83,7 +83,8 @@ export default function FormContact() {
     data = {
       ...data,
       country: countrys.find(country => country.cod === data.country)?.name || '',
-      socioEconomicLevel: t(`socioeconomic-${data.socioEconomicLevel}`)
+      socioEconomicLevel: t(`socioeconomic-${data.socioEconomicLevel}`),
+      academicStatus: academicStatus === 'No' ? '-------' : academicStatus
     };
     console.log("Iniciando envío del formulario");
     setIsSubmitting(true);
@@ -204,7 +205,7 @@ export default function FormContact() {
                 </SelectContent>
               </Select>
               <FormMessage className="text-red-500 text-sm mt-1" />
-              <p className="text-sm text-gray-500 mt-2">
+              <p className="text-sm text-gray-500 mt-2 pl-2">
                 <Link
                   href="https://isi-web.org/low-and-middle-income-countries-and-regions"
                   className="text-[--primary] hover:text-[--primary] hover:underline transition-colors font-work"
@@ -283,9 +284,9 @@ export default function FormContact() {
               <FormLabel className="mb-2 font-work text-base text-gray-700">
                 {t("academic.title")}
               </FormLabel>
-              <div className="flex items-center space-x-4">
+              <div className="flex flex-col sm:flex-row sm:items-center space-y-2 sm:space-y-0 sm:space-x-4">
                 <FormControl>
-                  <div className="flex items-center space-x-2">
+                  <div className="flex items-center">
                     <Checkbox
                       checked={field.value === "PreGrado"}
                       onCheckedChange={(checked) => {
@@ -304,7 +305,7 @@ export default function FormContact() {
                   </div>
                 </FormControl>
                 <FormControl>
-                  <div className="flex items-center space-x-2">
+                  <div className="flex items-center">
                     <Checkbox
                       checked={field.value === "PostGrado"}
                       onCheckedChange={(checked) => {
@@ -319,6 +320,25 @@ export default function FormContact() {
                       className="font-work text-base text-[--accent] cursor-pointer"
                     >
                       {t("academic.postgraduate")}
+                    </Label>
+                  </div>
+                </FormControl>
+                <FormControl>
+                  <div className="flex items-center">
+                    <Checkbox
+                      checked={field.value === "No"}
+                      onCheckedChange={(checked) => {
+                        field.onChange(checked ? "No" : "");
+                        setAcademicStatus(checked ? "No" : "");
+                      }}
+                      id="No"
+                      className="mr-3 h-5 w-5 border-2 border-gray-300 rounded data-[state=checked]:border-[--primary] data-[state=checked]:bg-[--primary] transition-colors duration-200"
+                    />
+                    <Label
+                      htmlFor="No"
+                      className="font-work text-base text-[--accent] cursor-pointer"
+                    >
+                      {t("academic.notstudent")}
                     </Label>
                   </div>
                 </FormControl>

@@ -189,7 +189,8 @@ export default function Carrusel() {
   return (
     <div className="container mx-auto px-4 max-w-screen-xl">
       <h1 className="sm:text-4xl text-3xl font-bold mb-4 text-center font-open text-[--primary]">{t("title2")}</h1>
-      <p className="sm:text-xl text-lg mb-8 text-center max-w-3xl mx-auto font-work text-[--foreground]">{t("subtitle2")}</p>
+      <p className="sm:text-xl text-lg text-center max-w-3xl mx-auto font-work text-[--foreground]">{t("subtitle2")}</p>
+      <p className="sm:text-sm text-sm mb-8 text-center -max-w-3xl mx-auto font-open text-[--primary] italic">{t("information")}</p>
      <div className="container mx-auto px-4 max-w-screen-xl font-open text-[--primary]">
      {renderCarousel(internationalSpeakers, t("International.title"))}
      {renderCarousel(nationalSpeakers, "Expositores Nacionales")} 

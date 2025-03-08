@@ -109,7 +109,7 @@ export default function Header() {
               className="w-12 sm:w-28 h-auto hidden sm:block"
             />
           </Link>
-          <h1 className="text-md block sm:hidden">
+          <h1 className="text-md block pl-4 sm:hidden">
             {t("text")} <br />
             <strong>Icoh</strong>
           </h1>
@@ -135,7 +135,7 @@ export default function Header() {
               </MenubarMenu>
             ))}
           </Menubar>
-          <Menubar className="bg-transparent block border-none shadow-none space-x-6 sm:hidden">
+          <Menubar className="bg-transparent block border-none shadow-none space-x-6 pr-4 sm:hidden">
             <MenubarMenu>
               <MenubarTrigger className="p-2 rounded-full  bg-white hover:bg-[#9DACB7] active:bg-[#9DACB7]">
                 <Menu className="h-4 w-4 text-[#093352]" />

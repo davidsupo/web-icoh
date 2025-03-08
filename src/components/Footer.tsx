@@ -63,7 +63,7 @@ export function Footer() {
             </Link>
             <Separator orientation="vertical" className="h-4" />
             <Link
-              href={`/${locale}/proyectos`}
+              href={`/${locale}/programa`}
               className="font-open text-xs sm:text-[16px] uppercase px-6"
               aria-label="Projects"
             >
@@ -82,7 +82,7 @@ export function Footer() {
             </Link>
             <Separator orientation="vertical" className="h-4" />
             <Link
-              href={`/${locale}/involucrate`}
+              href={`/${locale}/expositores`}
               className="font-open text-xs sm:text-[16px] uppercase px-6"
               aria-label="Get Involved"
             >

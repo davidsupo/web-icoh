@@ -21,6 +21,8 @@ export default function HomePage() {
     t("information.topics.sixth"),
     t("information.topics.seventh"),
     t("information.topics.eighth"),
+    t("information.topics.ninth"),
+    t("information.topics.tenth"),
   ];
 
   return (
@@ -175,12 +177,12 @@ export default function HomePage() {
           </div>
 
           {/* Formulario y la imagen en la misma línea */}
-          <div className="flex p-4 sm:p-8 justify-evenly items-start gap-10 w-full max-w-screen-lg ">
+          <div className="flex sm:p-8 justify-evenly items-start gap-10 w-full max-w-screen-lg ">
             {/* Formulario */}
 
             <div
               id="contact-form"
-              className="w-full sm:w-2/3 flex justify-center items-center"
+              className="w-full sm:w-2/3"
             >
               <FormContact />
             </div>
