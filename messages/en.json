@@ -138,7 +138,7 @@
           },
           "second": {
             "name": "Dr. Jate Ratanachina",
-            "descripcion": "Occupational Physician with a Master's Degree in Occupational and Environmental Health, and 10 years of experience in occupational health and industrial safety. Specialist in occupational risk management and leading auditor in quality, environmental and occupational health and safety management systems. Active member of ICOH, SCOM and SOPESO."
+            "descripcion": "Dr. Jate Ratanachina is an assistant professor and consultant occupational physician at the Department of Preventive and Social Medicine, Chulalongkorn Medical School in Bangkok, Thailand and an Honorary Research Associate at the National Heart and Lung Institute, Imperial College London in the UK. He studied for his Doctor of Medicine at Chulalongkorn University. He has a PhD in Clinical Medicine Research from Imperial College London. His research has been in the fields of Occupation & Environmental Epidemiology, Workplace Health Promotion, Preventive Medicine and Global Health."
           },
           "third": {
             "name": "Dr. Loubna Tahri",
@@ -158,7 +158,7 @@
             "descripcion": "Lawyer and Master in Occupational Safety and Health, with over 12 years of experience in labor management and supervision. Specialist in psychosocial risks, workplace harassment, and OSH with a gender perspective. ICOH member and postgraduate lecturer."
           },
           "second": {
-            "name": "Dr. None Landauro",
+            "name": "Ing. None Landauro",
             "descripcion": "Industrial Safety and Hygiene Engineer with a Master's degree in Occupational Safety and Health. With 20 years of experience in safety, health and the environment in various sectors. He has led teams in Latin America and has been a professor at UNI, PUCP, UDEP, UNMSM, UPCH and UPC."
           },
           "third": {
@@ -328,7 +328,7 @@
           "first": {
             "title": "Semiplenary V",
             "details": "Guide to Risk Management with a Gender Perspective",
-            "subdetails": "Women's Health and Work in South Carolina"
+            "subdetails": "SC Women, Health and Work"
           },
           "second": {
             "title": "Semiplenary VI",
@@ -506,7 +506,7 @@
         "description": "Lawyer and Master in Occupational Health and Safety from the University of Piura. Specialized in sexual harassment at work, SST management in the face of pandemics, psychosocial risks (CENSOPAS COPSOQ), security with a gender and age focus, and administrative sanctioning law. Member of ICOH and the Peruvian Section of Young Jurists. Certified as an expert in Data Protection. Postgraduate teacher and speaker at national and international forums. More than 12 years of experience in management, technical-legal advice and supervision in labor and SST matters in various economic sectors."
       },
       "nineth": {
-        "name": "Dr. None Landauro",
+        "name": "Ing. None Landauro",
         "Nationality": "Perú",
         "description": "Industrial Safety and Hygiene Engineer from the National University of Engineering, with Master's studies in Safety and Health at Work from the same university. With 20 years of experience in safety, health and the environment in various sectors. He has led teams in Latin America and has been a professor at UNI, PUCP, UDEP, UNMSM, UPCH and UPC."
       },

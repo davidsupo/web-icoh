@@ -138,7 +138,7 @@
           },
           "second": {
             "name": "Dr. Jate Ratanachina",
-            "descripcion": "Médico Ocupacional con Maestría en Salud Ocupacional y Ambiental, y 10 años de experiencia en salud ocupacional y seguridad industrial. Especialista en gestión de riesgos laborales y auditor líder en sistemas de gestión de calidad, medio ambiente y seguridad y salud en el trabajo. Miembro activo de ICOH, SCOM y SOPESO."
+            "descripcion": "El Dr. Jate Ratanachina es profesor adjunto y médico consultor del trabajo en el Departamento de Medicina Preventiva y Social de la Facultad de Medicina de Chulalongkorn en Bangkok, Tailandia, e investigador asociado honorario del Instituto Nacional del Corazón y los Pulmones del Imperial College de Londres, Reino Unido. Estudió su Doctorado en Medicina en la Universidad de Chulalongkorn. Tiene un doctorado en Investigación en Medicina Clínica del Imperial College de Londres. Su investigación se ha centrado en las áreas de epidemiología ocupacional y ambiental, promoción de la salud en el trabajo, medicina preventiva y salud global."
           },
           "third": {
             "name": "Dra. Loubna Tahri",
@@ -158,7 +158,7 @@
             "descripcion": "Abogada y Magíster en Seguridad y Salud en el Trabajo, con más de 12 años de experiencia en gestión y fiscalización laboral. Especialista en riesgos psicosociales, hostigamiento laboral y SST con enfoque de género. Miembro de ICOH y docente de posgrado."
           },
           "second": {
-            "name": "Dr. None Landauro",
+            "name": "Ing. None Landauro",
             "descripcion": "Ingeniero en Seguridad e Higiene Industrial con estudios de Maestría en Seguridad y Salud en el Trabajo. Con 20 años de experiencia en seguridad, salud y medio ambiente en diversos sectores. Ha dirigido equipos en Latinoamérica y ha sido docente en UNI, PUCP, UDEP, UNMSM, UPCH y UPC."
           },
           "third": {
@@ -328,7 +328,7 @@
           "first": {
             "title": "Semiplenaria V",
             "details": "Guía para la Gestión de Riesgos con Visión de Género",
-            "subdetails": "Salud y trabajo de la mujer en Carolina del Sur"
+            "subdetails": "Comité Científico de Mujer, Salud y Trabajo"
           },
           "second": {
             "title": "Semiplenaria VI",
@@ -503,11 +503,11 @@
       },
       "eighth": {
         "name": "Melissa Chuquillanqui Sernaqué",
-       "Nationality": "Perú",
+        "Nationality": "Perú",
         "description": "Abogada y Magíster en Seguridad y Salud en el Trabajo por la Universidad de Piura. Especializada en hostigamiento sexual laboral, gestión de SST frente a pandemias, riesgos psicosociales (CENSOPAS COPSOQ), seguridad con enfoque de género y edad, y derecho administrativo sancionador. Miembro de ICOH y la Sección Peruana de Jóvenes Juristas. Certificada como experta en Protección de Datos. Docente de posgrado y ponente en foros nacionales e internacionales. Más de 12 años de experiencia en gestión, asesoría técnico-legal y fiscalización en materia laboral y SST en diversos sectores económicos."
       },
       "nineth": {
-        "name": "Dr. None Landauro",
+        "name": "Ing. None Landauro",
         "Nationality": "Perú",
         "description": "Ingeniero en Seguridad e Higiene Industrial por la Universidad Nacional de Ingeniería, con estudios de Maestría en Seguridad y Salud en el Trabajo por la misma universidad. Con 20 años de experiencia en seguridad, salud y medio ambiente en diversos sectores. Ha dirigido equipos en Latinoamérica y ha sido docente en UNI, PUCP, UDEP, UNMSM, UPCH y UPC."
       },
