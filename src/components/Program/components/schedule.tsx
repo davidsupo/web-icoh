@@ -112,13 +112,18 @@ export default function Schedule() {
   const day1Schedule = [
     {
       time: t("day1Schedule.first.time"),
-      title: t("day1Schedule.first.title"),
-      details: t("day1Schedule.first.details"),
+      title: t("day1Schedule.first.title")
     },
     {
       time: t("day1Schedule.second.time"),
       title: t("day1Schedule.second.title"),
+      details: t("day1Schedule.second.details"),
     },
+    {
+      time: t("day1Schedule.third.time"),
+      title: t("day1Schedule.third.title"),
+      details: t("day1Schedule.third.details"),
+    }
   ];
 
   const day2Schedule = [
@@ -128,8 +133,17 @@ export default function Schedule() {
     },
     {
       time: t("day2Schedule.second.time"),
-      title: t("day2Schedule.second.title"),
-      details: t("day2Schedule.second.details"),
+      title: "",
+      details: {
+        first: {
+          title: t("day2Schedule.second.details.first"),
+          details: t("day2Schedule.second.details.details"),
+        },
+        second: {
+          title: t("day2Schedule.second.second.title"),
+          details: t("day2Schedule.second.second.details"),
+        }
+      }
     },
     {
       time: t("day2Schedule.third.time"),
@@ -137,13 +151,31 @@ export default function Schedule() {
     },
     {
       time: t("day2Schedule.fourth.time"),
-      title: t("day2Schedule.fourth.title"),
-      details: t("day2Schedule.fourth.details"),
+      title: "",
+      details: {
+        first: {
+          title: t("day2Schedule.fourth.details.first"),
+          details: t("day2Schedule.fourth.details.details"),
+        },
+        second: {
+          title: t("day2Schedule.fourth.second.title"),
+          details: t("day2Schedule.fourth.second.details"),
+        }
+      }
     },
     {
       time: t("day2Schedule.fifth.time"),
-      title: t("day2Schedule.fifth.title"),
-      details: t("day2Schedule.fifth.details"),
+      title: "",
+      details: {
+        first: {
+          title: t("day2Schedule.fifth.details.first"),
+          details: t("day2Schedule.fifth.details.details"),
+        },
+        second: {
+          title: t("day2Schedule.fifth.second.title"),
+          details: t("day2Schedule.fifth.second.details"),
+        }
+      }
     },
     {
       time: t("day2Schedule.sixth.time"),
@@ -220,8 +252,17 @@ export default function Schedule() {
     },
     {
       time: t("day3Schedule.second.time"),
-      title: t("day3Schedule.second.title"),
-      details: t("day3Schedule.second.details"),
+      title: "",
+      details: {
+        first: {
+          title: t("day3Schedule.second.details.first.title"),
+          details: t("day3Schedule.second.details.first.details"),
+        },
+        second: {
+          title: t("day3Schedule.second.details.second.title"),
+          details: t("day3Schedule.second.details.second.details"),
+        },
+      },
     },
     {
       time: t("day3Schedule.third.time"),
@@ -229,13 +270,31 @@ export default function Schedule() {
     },
     {
       time: t("day3Schedule.fourth.time"),
-      title: t("day3Schedule.fourth.title"),
-      details: t("day3Schedule.fourth.details"),
+      title: "",
+      details: {
+        first: {
+          title: t("day3Schedule.fourth.details.first.title"),
+          details: t("day3Schedule.fourth.details.first.details"),
+        },
+        second: {
+          title: t("day3Schedule.fourth.details.second.title"),
+          details: t("day3Schedule.fourth.details.second.details"),
+        },
+      }
     },
     {
       time: t("day3Schedule.fifth.time"),
-      title: t("day3Schedule.fifth.title"),
-      details: t("day3Schedule.fifth.details"),
+      title: "",
+      details: {
+        first: {
+          title: t("day3Schedule.fifth.details.first.title"),
+          details: t("day3Schedule.fifth.details.first.details"),
+        },
+        second: {
+          title: t("day3Schedule.fifth.details.second.title"),
+          details: t("day3Schedule.fifth.details.second.details"),
+        },
+      },
     },
     {
       time: t("day3Schedule.sixth.time"),
@@ -243,12 +302,11 @@ export default function Schedule() {
       details: {
         first: {
           title: t("day3Schedule.sixth.details.first.title"),
-          details: t("day3Schedule.sixth.details.first.details"),
-          subdetails: t("day3Schedule.sixth.details.first.subdetails"),
+          details: t("day3Schedule.sixth.details.first.details")
         },
         second: {
           title: t("day3Schedule.sixth.details.second.title"),
-          details: t("day3Schedule.sixth.details.second.details"),
+          details: t("day3Schedule.sixth.details.second.details")
         },
       },
     },

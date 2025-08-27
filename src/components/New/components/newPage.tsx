@@ -60,6 +60,15 @@ export default function NewsPage() {
       buttonText: t("articles.sixth.button"),
       pdfUrl: "/doc/articles/A multi-disciplinary and participative approach in Occupational Health and Safety to face the chall.pdf",
     },
+    {
+      type: "article",
+      title: "",
+      author: "",
+      description: t("articles.seventh.descripcion"),
+      buttonText: "",
+      pdfUrl: "",
+      imageUrl: "/img/work_and_health.png"
+    }
   ]
 
   const events = [
@@ -80,6 +89,36 @@ export default function NewsPage() {
       title: t("events.third.title"),
       date: t("events.third.date"),
       time: t("events.third.time"), 
+    },
+    {
+      id: "4",
+      title: t("events.fourth.title"),
+      date: t("events.fourth.date"),
+      time: t("events.fourth.time"), 
+    },
+    {
+      id: "5",
+      title: t("events.fifth.title"),
+      date: t("events.fifth.date"),
+      time: t("events.fifth.time"),
+    },
+    {
+      id: "6",
+      title: t("events.sixth.title"),
+      date: t("events.sixth.date"),
+      time: t("events.sixth.time"), 
+    },
+    {
+      id: "7",
+      title: t("events.seventh.title"),
+      date: t("events.seventh.date"),
+      time: t("events.seventh.time"), 
+    },
+    {
+      id: "8",
+      title: t("events.eighth.title"),
+      date: t("events.eighth.date"),
+      time: t("events.eighth.time"),
     }
   ]
 

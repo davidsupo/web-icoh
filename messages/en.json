@@ -65,7 +65,7 @@
     "firstOption": "Home",
     "secondOption": "About Us",
     "thirdOption": "Program",
-    "fourthOption": "Overview",
+    "fourthOption": "Abstracts",
     "fifthOption": "Speakers",
     "sixthOption": "News",
     "text": "Welcome to"
@@ -187,7 +187,8 @@
     },
     "Co-organizers": {
       "title": "ACADEMIC SPONSORS",
-      "tag": "Academic Sponsors"
+      "tag": "Academic Sponsors",
+      "description": "The support and academic participation of the Ministry of Health (MINSA) is counted on, through the document of reference b), the General Director of the General Office of Communications, informs the General Directorate of Strategic Interventions in Public Health (DGIESP), that he has taken note of the registered background attached to the document of the reference, and the use of the institutional logo is authorized, in the 3rd Conference of the Scientific Committee on Occupational Medicine “Future and opportunities of Occupational Medicine“ of the International Commission on Occupational Health (ICOH)."
     }
   },
   "Program": {
@@ -203,13 +204,18 @@
     "panelists": "Panelists",
     "day1Schedule": {
       "first": {
-        "time": "19:00 - 19:45",
-        "title": "Presentation Speech",
-        "details": "The role of government in occupational health and safety: public policies that prioritize the well-being of workers"
+        "time": "07:30 - 17:00",
+        "title": "OHS Worksite visits (previous registration required)"
       },
       "second": {
-        "time": "19:45 - 22:00",
-        "title": "Official Opening and Awards Ceremony Gala Dinner"
+        "time": "19:00 - 19:45",
+        "title": "Government’s Role in OHS: Prioritizing Workers Wellness",
+        "details": "Venue: Petroperú Auditorium (Av. Enrique Canaval Moreyra 150, San Isidro. Lima, Perú)"
+      },
+      "third": {
+        "time": "19:45 - 21:00",
+        "title": "Official Opening",
+        "details": "Welcome Reception (confirmation of attendance required). Award Ceremony"
       }
     },
     "day2Schedule": {
@@ -219,8 +225,14 @@
       },
       "second": {
         "time": "08:30 - 09:15",
-        "title": "Plenary Session I",
-        "details": "Occupational health in Peru: facts and figures"
+        "details": {
+          "first": "SESSION I",
+          "details": "Occupational Health in Peru: The Facts & Figures (Spanish)"
+        },
+        "second": {
+          "title": "SESSION II",
+          "details": "Long-term impacts of occupational exposure to neurotoxicants: use of omics as effect biomarkers"
+        }
       },
       "third": {
         "time": "09:15 - 09:30",
@@ -228,34 +240,46 @@
       },
       "fourth": {
         "time": "09:30 - 10:15",
-        "title": "Plenary Session II",
-        "details": "The causal link of occupational diseases"
+        "details": {
+          "first": "SESSION III",
+          "details": "The Causality Nexus of Occupational Diseases (Spanish)"
+        },
+        "second": {
+          "title": "SESSION IV",
+          "details": "Beyond the Red Itch: Understanding Complex Occupational Skin Conditions"
+        }
       },
       "fifth": {
         "time": "10:15 - 11:00",
-        "title": "Plenary Session III",
-        "details": "Heat at work: a global burden for workers"
+        "details": {
+          "first": "SESSION V",
+          "details": "Occupational Exposure to asbestos and silica: early changes in plasma and the exhaled breath condensate"
+        },
+        "second": {
+          "title": "SESSION VI",
+          "details": "Work Disability Programs: Experiences in Latin America (Spanish)"
+        }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
-          "first": "Semiplenary I",
-          "details": "Approaches to workplace noise management: a success story"
+          "first": "SESSION VII",
+          "details": "Occupational Health in Oil & Gas Industry: Addressing High-Risk Profiles Through Strategies Interventions"
         },
         "second": {
-          "title": "Semiplenary II",
-          "details": "The challenges of musculoskeletal disorders and teleworking"
+          "title": "SESSION VIII",
+          "details": "MSD and Teleworking Challenges (Spanish)"
         }
       },
       "seventh": {
         "time": "11:55 - 12:40",
         "details": {
-          "first": "Semiplenary III",
-          "details": "Work disability programs: experiences in Latin America"
+          "first": "SESSION IX",
+          "details": "Musculoskeletal Health in the Workplace: Identifying Risks and Implementing Solutions (Spanish)"
         },
         "second": {
-          "title": "Semiplenary IV",
-          "details": "Evaluation and management of workers' mental health: the tool"
+          "title": "SESSION X",
+          "details": "Approaches in Managing Noise at Workplace: A Success Story"
         }
       },
       "eighth": {
@@ -272,16 +296,16 @@
         "title": "Special Sessions",
         "details": {
           "first": {
-            "title": "Special Sessions I",
-            "details": "Occupational asthma: diagnosis and treatment",
+            "title": "SPECIAL SESSION I:",
+            "details": "Occupational Asthma: Diagnosis and Management",
             "moderator": "SCOM",
-            "panelists": "Invited speakers from SC and Scientific Societies"
+            "panelists": "ICOH, SOPESO and SOMOMA"
           },
           "second": {
-            "title": "Special Sessions II",
-            "details": "Preventing musculoskeletal disorders in the workplace: the best programs",
+            "title": "SPECIAL SESSION II:",
+            "details": "Preventing MSD at Workplace: The Best Programs (Spanish)",
             "moderator": "ICOH",
-            "panelists": "Invited speakers from SC and Scientific Societies"
+            "panelists": "SOPERGO, ULAERGO and SCEPP"
           }
         }
       },
@@ -291,10 +315,10 @@
       },
       "twelfth": {
         "time": "19:00 - 19:45",
-        "title": "Working meetings of the national secretaries of the ICOH"
+        "title": "ICOH National Secretaries & SCOM Business Meetings"
       },
       "thirteenth": {
-        "time": "19:45 - 22:00",
+        "time": "19:45 - 21:00",
         "title": "Peruvian Cultural Night"
       }
     },
@@ -305,8 +329,16 @@
       },
       "second": {
         "time": "08:30 - 09:15",
-        "title": "Plenary Session IV",
-        "details": "Occupational Toxicology: Intervention after Occupational Diseases: Overview from Medical, Engineering, Human Resources and Legal Perspectives"
+        "details": {
+          "first": {
+            "title": "SESSION XI",
+            "details": "Occupational Toxicology: Intervention After Occupational Diseases-Overview on Medicine, Engineering, HR & Legal (Spanish)"
+          },
+          "second": {
+            "title": "SESSION XII",
+            "details": "Medical Surveillance Challenges at Mining companies: Intervention After Occupational Diseases- Overview on Medicine, Engineering, HR & Legal (Spanish)"
+          }
+        }
       },
       "third": {
         "time": "09:15 - 09:30",
@@ -314,25 +346,41 @@
       },
       "fourth": {
         "time": "09:30 - 10:15",
-        "title": "Plenary Session V",
-        "details": "Work-Related Cancer Risk Factors"
+        "details": {
+          "first": {
+            "title": "SESSION XIII",
+            "details": "Disability and Work"
+          },
+          "second": {
+            "title": "SESSION XIV",
+            "details": "Guide For Risk Management with Gender Vision (Spanish)"
+          }
+        }
       },
       "fifth": {
         "time": "10:15 - 11:00",
-        "title": "Plenary Session VI",
-        "details": "Disability and Work"
+        "details": {
+          "first": {
+            "title": "SESSION XV",
+            "details": "Adaptation To the Loss of Daily Light/Dark Alternation Among Workers"
+          },
+          "second": {
+            "title": "SESSION XIV",
+            "details": "Cancer & Work Capabilities"
+          }
+        }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
           "first": {
-            "title": "Semiplenary V",
-            "details": "Guide to Risk Management with a Gender Perspective",
+            "title": "SESSION XVII",
+            "details": "Protecting Our Protectors: Why Vaccination Matters for Peruvian Health Workers",
             "subdetails": "SC Women, Health and Work"
           },
           "second": {
-            "title": "Semiplenary VI",
-            "details": "Sleep disorders and occupational health: evaluation and management"
+            "title": "SESSION XVIII",
+            "details": "Implementing ISO 45001: A Path to Enhanced Occupational Health & Safety"
           }
         }
       },
@@ -340,12 +388,12 @@
         "time": "11:55 - 12:40",
         "details": {
           "first": {
-            "title": "Semiplenary VII",
-            "details": "KIV - TBC - SCOM"
+            "title": "SESSION XIX",
+            "details": "Mercury Contamination and Co-exposures in the Amazon Basin: At the Center of the Planetary Environmental Crisis."
           },
           "second": {
-            "title": "Semiplenary VIII",
-            "details": "TBC"
+            "title": "SESSION XX",
+            "details": "Occupational Health among Fishermen and other informal sectors"
           }
         }
       },
@@ -362,16 +410,16 @@
         "time": "15:40 - 16:40",
         "details": {
           "first": {
-            "title": "Special Sessions III",
-            "details": "Disability and impairment: impact on the work environment",
+            "title": "SPECIAL SESSION III:",
+            "details": "Impairment & Disability:  Impact on Working Environment (Spanish)",
             "moderator": "SCOM",
-            "panelists": "Guests from SC and Scientific Societies"
+            "panelists": "ICOH and MINSA"
           },
           "second": {
-            "title": "Special Sessions IV",
-            "details": "Mental health: challenges and opportunities",
+            "title": "SPECIAL SESSION IV:",
+            "details": "Mental Health: The Challenges and Opportunities (English and Spanish)",
             "moderator": "ICOH",
-            "panelists": "Guests from SC and Scientific Societies"
+            "panelists": "SCOM, SOPESO, SCEPP"
           }
         }
       },
@@ -380,13 +428,13 @@
         "title": "Coffee break"
       },
       "twelfth": {
-        "time": "19:00 - 22-00",
-        "title": "Ceremony of Closing - Toast"
+        "time": "19:00 - 21-00",
+        "title": "Closing Ceremony"
       }
     }
   },
   "Abstract": {
-    "title": "ABSTRACT",
+    "title": "ABSTRACTS",
     "subtitle": "Be part of our team!",
     "components": {
       "first": {
@@ -586,6 +634,9 @@
         "nameAutor": "Norvil Mera Chú, NS for Peru",
         "descripcion": "",
         "button": "Read article in PDF"
+      },
+      "seventh": {
+        "descripcion": "In addition to the academic sponsorship and accreditation of the Faculty of Human Medicine of the University of Piura, the leading Scientific Societies of Occupational Safety and Health and the Ministry of Health will participate in the academic program of this historic event in Latin America. For the first time, the ICOH Scientific Committee on Occupational Medicine will visit Latin America. The content of the academic program and the presented and approved research abstracts will be included in the publication of the journal WORK AND HEALTH. Companies committed to OSH in the country are joining forces to participate in this event. Occupational groups with exposures and work environments that are still understudied and underserved will be addressed in the academic program."
       }
     },
     "events": {
@@ -605,6 +656,31 @@
         "title": "Strategies for Cardiovascular and Metabolic Diseases Prevention in workers",
         "date": "Date: May 22, 2025",
         "time": ""
+      },
+      "fourth": {
+        "title": "11th Webinar - ICOH National Secretary for Perú “Occupational Hygiene: a key for improving Workers′ Health”",
+        "date": "14 August 2025 - Webinar via zoom - 19.00 (Perú time) / 18.00 (CET",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee on Industrial Hygiene"
+      },
+      "fifth": {
+        "title": "12th Webinar - ICOH National Secretary for Perú “Occupational Health Nursing: Current Role and future challenges”",
+        "date": "28 August 2025 - Webinar - 12.00 (Perú time) / 19.00 (CET/South Africa time)",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee of Occupational Health Nursing"
+      },
+      "sixth": {
+        "title": "13TH Webinar-ICOH National Secretary for Perú Education and Training in OHS worldwide: global perspective, barriers and challenges",
+        "date": "11 September at 19.00 Perú time",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee of Education and Training in Occupational Health"
+      },
+      "seventh": {
+        "title": "14th Webinar-ICOH National Secretary for Perú “Nanotechnology and occupational health: state of the art and future perspectives”",
+        "date": "25 September at 13.00 Perú time",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee of on Nanomaterial Workers’ Health"
+      },
+      "eighth": {
+        "title": "15th Webinar-ICOH National Secretary for Perú “Occupational Medicine: Remember, Learn and Trascend”",
+        "date": "3 October at 8.00am Perú time",
+        "time": "Organized by: ICOH National Secretary for Perú, ICOH Scientific Committee of History of Prevention of Occupational and Environmental DIseases and ICOH Scientific Committee on Occupational Medicine"
       }
     }
   },

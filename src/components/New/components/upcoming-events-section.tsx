@@ -33,10 +33,11 @@ export default function UpcomingEventsSection({ events, title, subtitle }: Upcom
                   <Calendar className="h-4 w-4 sm:h-5 sm:w-5 mr-2 flex-shrink-0" />
                   {event.date}
                 </p>
-                <p className="flex items-center text-sm sm:text-base text-gray-600 font-work">
+                {event.time &&  (<p className="flex items-center text-sm sm:text-base text-gray-600 font-work">
                   <Clock className="h-4 w-4 sm:h-5 sm:w-5 mr-2 flex-shrink-0" />
                   {event.time}
                 </p>
+                )}
               </div>
             </CardContent>
           </Card>

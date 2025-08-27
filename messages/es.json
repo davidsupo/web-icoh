@@ -65,7 +65,7 @@
     "firstOption": "Inicio",
     "secondOption": "Nosotros",
     "thirdOption": "Programa",
-    "fourthOption": "Resumen",
+    "fourthOption": "Resúmenes científicos",
     "fifthOption": "Expositores",
     "sixthOption": "Noticias",
     "text": "Bienvenido a"
@@ -187,7 +187,8 @@
     },
     "Co-organizers": {
       "title": "AUSPICIADORES ACADÉMICOS",
-      "tag": "Auspiciadores Académicos"
+      "tag": "Auspiciadores Académicos",
+      "description": "Se cuenta con el soporte y participación académica del Ministerio de Salud (MINSA), mediante el documento de la referencia b), el Director General de la Oficina General de Comunicaciones, manifiesta al Director General de la Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP), que se ha tomado conocimiento de los antecedentes registrados adjuntos al documento de la referencia, y se autoriza el uso del logo institucional, en la 3era Conferencia del Comité Científico en Medicina Ocupacional “Futuro y oportunidades de la Medicina Ocupacional” de la Comisión Internacional de Salud Ocupacional (ICOH)."
     }
   },
   "Program": {
@@ -203,13 +204,18 @@
     "panelists": "Panelistas",
     "day1Schedule": {
       "first": {
-        "time": "19:00 - 19:45",
-        "title": "Discurso de Presentación",
-        "details": "El papel del gobierno en la seguridad y salud en el trabajo: políticas públicas que priorizan el bienestar de los trabajadores"
+        "time": "07:30 - 17:00",
+        "title": "Visitas guiadas a empresas (registro previo es requerido)"
       },
       "second": {
-        "time": "19:45 - 22:00",
-        "title": "Inauguración oficial y Ceremonia de entrega de premios Cena de gala"
+        "time": "19:00 - 19:45",
+        "title": "Rol del Gobiernoe n la SST: Priorizando el bienestar de los trabajadores. ",
+        "details": "Lugar: Petroperú Auditorium"
+      },
+      "third": {
+        "time": "19:45 - 21:00",
+        "title": "Inauguración oficial",
+        "details": "Recepción de bienvenida( confirmación de asistencia es requerida ). Ceremonia de premiación y reconocimiento."
       }
     },
     "day2Schedule": {
@@ -219,8 +225,14 @@
       },
       "second": {
         "time": "08:30 - 09:15",
-        "title": "Sesión Plenaria I",
-        "details": "La salud ocupacional en el Perú: hechos y cifras"
+        "details": {
+          "first": "SESSION I",
+          "details": "Salud Ocupacional en Perú: Datos y cifras (en español)"
+        },
+        "second": {
+          "title": "SESSION II",
+          "details": "Impacto a largo plazo de la exposición ocupacional a neurotóxicos: uso de ómicos como biomarcadores de efecto"
+        }
       },
       "third": {
         "time": "09:15 - 09:30",
@@ -228,34 +240,46 @@
       },
       "fourth": {
         "time": "09:30 - 10:15",
-        "title": "Sesión Plenaria II",
-        "details": "El nexo causal de las enfermedades profesionales"
+        "details": {
+          "first": "SESSION III",
+          "details": "El nexo de causalidad de las enfermedades ocupacionales (en español)"
+        },
+        "second": {
+          "title": "SESSION IV",
+          "details": "Más allá del rash: Comprendiendo las afecciones dermatológicas ocupacionales complejas."
+        }
       },
       "fifth": {
         "time": "10:15 - 11:00",
-        "title": "Sesión Plenaria III",
-        "details": "Calor en el trabajo: una carga global para los trabajadores"
+        "details": {
+          "first": "SESSION V",
+          "details": "Exposición ocupacional a asbestos y sílice: cambios tempranos en plasma y aliento exhalado"
+        },
+        "second": {
+          "title": "SESSION VI",
+          "details": "Programas de Gestión de Discapacidad Laboral: Experiencias en Latin-América (en español)"
+        }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
-          "first": "Semiplenaria I",
-          "details": "Enfoques para la gestión del ruido en el lugar de trabajo: una historia de éxito"
+          "first": "SESSION VII",
+          "details": "SST en Industria de Gas y Petróleo: Abordar los perfiles de alto riesgo mediantes intervenciones estratégicas"
         },
         "second": {
-          "title": "Semiplenaria II",
-          "details": "Los retos de los trastornos musculoesqueléticos y el teletrabajo"
+          "title": "SESSION VIII",
+          "details": "Trastornos Musculo-esqueléticos y teletrabajo: retos y oportunidades (en español)"
         }
       },
       "seventh": {
         "time": "11:55 - 12:40",
         "details": {
-          "first": "Semiplenaria III",
-          "details": "Programas de discapacidad laboral: experiencias en América Latina"
+          "first": "SESSION IX",
+          "details": "Salud Músculo-esquelética en los ambientes de trabajo: Identificando riesgos e implementando soluciones reales (en español)"
         },
         "second": {
-          "title": "Semiplenaria IV",
-          "details": "Evaluación y gestión de la salud mental de los trabajadores: la herramienta"
+          "title": "SESSION X",
+          "details": "Enfoques en la gestion de Ruido en los centros de trabajo: Historia de éxito"
         }
       },
       "eighth": {
@@ -272,16 +296,16 @@
         "title": "Sesiones Especiales",
         "details": {
           "first": {
-            "title": "Sesiones Especial I",
-            "details": "Asma ocupacional: diagnóstico y tratamiento",
+            "title": "SPECIAL SESSION I:",
+            "details": "Asma Ocupacional: Diagnóstico y Manejo",
             "moderator": "SCOM",
-            "panelists": "Invitados de SC y Sociedades Científicas"
+            "panelists": "ICOH, SOPESO and SOMOMA"
           },
           "second": {
-            "title": "Sesiones Especial II",
-            "details": "Prevención de los trastornos musculoesqueléticos en el lugar de trabajo: los mejores programas",
+            "title": "SPECIAL SESSION II:",
+            "details": "Prevención de TME en centros de trabajo: ¿Los mejores programas? (Spanish)",
             "moderator": "ICOH",
-            "panelists": "Invitados de SC y Sociedades Científicas"
+            "panelists": "SOPERGO, ULAERGO and SCEPP"
           }
         }
       },
@@ -291,10 +315,10 @@
       },
       "twelfth": {
         "time": "19:00 - 19:45",
-        "title": "Reuniones de trabajo de los secretarios nacionales del ICOH"
+        "title": "Encuentro y mesa de trabajo de Secretarios Nacionales de ICOH asistentes y SCOM."
       },
       "thirteenth": {
-        "time": "19:45 - 22:00",
+        "time": "19:45 - 21:00",
         "title": "Noche Cultural Peruana"
       }
     },
@@ -305,8 +329,16 @@
       },
       "second": {
         "time": "08:30 - 09:15",
-        "title": "Sesión Plenaria IV",
-        "details": "Toxicología ocupacional: intervención tras enfermedades profesionales: visión general desde el punto de vista médico, de ingeniería, de recursos humanos y legal"
+        "details": {
+          "first": {
+            "title": "SESSION XI",
+            "details": "Toxicología ocupacional: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)"
+          },
+          "second": {
+            "title": "SESSION XII",
+            "details": "Desafíos para la Vigilancia médica en Minería: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)"
+          }
+        }
       },
       "third": {
         "time": "09:15 - 09:30",
@@ -314,25 +346,40 @@
       },
       "fourth": {
         "time": "09:30 - 10:15",
-        "title": "Sesión Plenaria V",
-        "details": "Factores de riesgo de cáncer relacionados con el trabajo"
+        "details": {
+          "first": {
+            "title": "SESSION XIII",
+            "details": "Discapacidad y Trabajo"
+          },
+          "second": {
+            "title": "SESSION XIV",
+            "details": "Guía para la Gestión de riesgos ocupacionales con enfoque de género (en español)"
+          }
+        }
       },
       "fifth": {
         "time": "10:15 - 11:00",
-        "title": "Sesión Plenaria VI",
-        "details": "Discapacidad y Trabajo"
+        "details": {
+          "first": {
+            "title": "SESSION XV",
+            "details": "Adaptación a la pérdida de alternancia diaria de luz / oscuridad entre los trabajadores"
+          },
+          "second": {
+            "title": "SESSION XVI",
+            "details": "Cáncer y la capacidad/aptitud para trabajar"
+          }
+        }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
           "first": {
-            "title": "Semiplenaria V",
-            "details": "Guía para la Gestión de Riesgos con Visión de Género",
-            "subdetails": "Comité Científico de Mujer, Salud y Trabajo"
+            "title": "SESSION XVII",
+            "details": "Protegiendo a nuestros protectores: ¿Por qué la vacunación impacta en los trabajadores de salud en Perú (en español)"
           },
           "second": {
-            "title": "Semiplenaria VI",
-            "details": "Trastornos del sueño y salud laboral: evaluación y manejo"
+            "title": "SSESSION XVIII",
+            "details": "Implementando la ISO 45001: Un camino hacia una major SST"
           }
         }
       },
@@ -340,12 +387,12 @@
         "time": "11:55 - 12:40",
         "details": {
           "first": {
-            "title": "Semiplenaria VII",
-            "details": "KIV - TBC - SCOM"
+            "title": "SESSION XIX",
+            "details": "Contaminación y co-exposición por Mercurio en la Cuenca Amazónica: En el centro de la crisis ambiental planetaria"
           },
           "second": {
-            "title": "Semiplenaria VIII",
-            "details": "TBC"
+            "title": "SESSION XX",
+            "details": "Salud Ocupacional en Pescadores y otros sectores informales."
           }
         }
       },
@@ -362,16 +409,16 @@
         "time": "15:40 - 16:40",
         "details": {
           "first": {
-            "title": "Sesiones Especial III",
-            "details": "Discapacidad y deterioro: impacto en el entorno laboral",
+            "title": "SPECIAL SESSION III:",
+            "details": "Daño a la salud y Discapacidad: Impacto en el ambiente de trabajo. (Spanish)",
             "moderator": "SCOM",
-            "panelists": "Invitados de SC y Sociedades Científicas"
+            "panelists": "ICOH and MINSA"
           },
           "second": {
-            "title": "Sesiones Especial IV",
-            "details": "Salud mental: desafíos y oportunidades",
+            "title": "SPECIAL SESSION IV:",
+            "details": "Salud Mental: los retos y oportunidades para profesionales de OHS",
             "moderator": "ICOH",
-            "panelists": "Invitados de SC y Sociedades Científicas"
+            "panelists": "SCOM, SOPESO, SCEPP"
           }
         }
       },
@@ -380,13 +427,13 @@
         "title": "Pausa para el café"
       },
       "twelfth": {
-        "time": "19:00 - 22-00",
-        "title": "Ceremonia de Clausura - Brindis"
+        "time": "19:00 - 21-00",
+        "title": "Cierre del evento"
       }
     }
   },
   "Abstract": {
-    "title": "RESUMEN",
+    "title": "RESÚMENES CIENTÍFICOS",
     "subtitle": "¡Sé parte de nuestro equipo!",
     "components": {
       "first": {
@@ -493,7 +540,7 @@
 
       "sixth": {
         "name": "Dra. Miriam Panduro",
-       "Nationality": "Perú",
+        "Nationality": "Perú",
         "description": "Médico Ocupacional con Maestría en Salud Ocupacional y Ambiental y Auditoría Médica. Más de 14 años de experiencia en la gestión de salud ocupacional y servicios médicos en sectores como industria, pesquería, hidrocarburos, metalmecánica, construcción, transporte y concesiones viales. Especialista en implementación y auditoría de Sistemas Integrados de Gestión bajo estándares ISO 9001, ISO 14001 e ISO 45001. Miembro de ICOH y su Comité Científico de Medicina Ocupacional (SCOM). Médico certificado como Conservacionista Auditivo por CAOHC y miembro de SOPESO."
       },
       "seventh": {
@@ -587,6 +634,9 @@
         "nameAutor": "Norvil Mera Chú, NS for Peru",
         "descripcion": "",
         "button": "Leer articulo en PDF"
+      },
+      "seventh": {
+        "descripcion": "Además de contar con el auspicio Académico y creditaje de la Facultad de MEDICINA HUMANA de la Universidad de Piura, las principales Sociedades Científicas de Seguridad y Salud Ocupacional y el Ministerio de Salud participarán del programa académico de este evento histórico en Latin-América. Por primera vez, el Comité Científico de ICOH de Medicina Ocupacional llegará a Latín-América. El contenido del programa académico y los Resúmenes de investigación presentados y aprobados se incluirán en la publicación de la revista WORK AND HEALTH. Empresas comprometidas con la SST en el país se unen para participar en este evento. Los grupos laborales con exposiciones y entornos laborales poco estudiados y atendidos aún, serán abordados en el programa académico."
       }
     },
     "events": {
@@ -606,6 +656,31 @@
         "title": "Estrategias de Prevención de Enfermedades Cardiovasculares y Metabólicas en los trabajadores",
         "date": "Fecha: 22 de Mayo 2025",
         "time": ""
+      },
+      "fourth": {
+        "title": "11th Webinar - ICOH National Secretary for Perú “Occupational Hygiene: a key for improving Workers′ Health”",
+        "date": "14 August 2025 - Webinar via zoom - 19.00 (Perú time) / 18.00 (CET",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee on Industrial Hygiene"
+      },
+      "fifth": {
+        "title": "12th Webinar - ICOH National Secretary for Perú “Occupational Health Nursing: Current Role and future challenges”",
+        "date": "28 August 2025 - Webinar - 12.00 (Perú time) / 19.00 (CET/South Africa time)",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee of Occupational Health Nursing"
+      },
+      "sixth": {
+        "title": "13TH Webinar-ICOH National Secretary for Perú Education and Training in OHS worldwide: global perspective, barriers and challenges",
+        "date": "11 September at 19.00 Perú time",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee of Education and Training in Occupational Health"
+      },
+      "seventh": {
+        "title": "14th Webinar-ICOH National Secretary for Perú “Nanotechnology and occupational health: state of the art and future perspectives”",
+        "date": "25 September at 13.00 Perú time",
+        "time": "Organized by: ICOH National Secretary for Perú and ICOH Scientific Committee of on Nanomaterial Workers’ Health"
+      },
+      "eighth": {
+        "title": "15th Webinar-ICOH National Secretary for Perú “Occupational Medicine: Remember, Learn and Trascend”",
+        "date": "3 October at 8.00am Perú time",
+        "time": "Organized by: ICOH National Secretary for Perú, ICOH Scientific Committee of History of Prevention of Occupational and Environmental DIseases and ICOH Scientific Committee on Occupational Medicine"
       }
     }
   },

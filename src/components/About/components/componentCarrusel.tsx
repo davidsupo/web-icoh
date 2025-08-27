@@ -13,6 +13,13 @@ import Autoplay from "embla-carousel-autoplay";
 export default function ComponentCarrusel() {
   const t = useTranslations("Us");
 
+  const sponsors = [
+    {
+      src: '/img/sponsors/petroperu.png',
+      alt: 'Petro Perú'
+    }
+  ]
+
   const coOrganizers = [
     {
       src: "/img/co_organizers/Logo-ICOH-Comunidad.jpg",
@@ -85,6 +92,16 @@ export default function ComponentCarrusel() {
               <CarouselNext className="absolute right-[-50px] top-1/2 -translate-y-1/2 h-10 w-10 border-[#005883] text-[#005883] hover:bg-[#005883] hover:text-white" />
             </Carousel>
           </div>
+          <p className="text-center font-work text-base text-gray-700 mb-4 mx-auto mt-4">
+            {t("Co-organizers.description")}
+          </p>
+          <div className="flex justify-center">
+            <img 
+              src="/img/co_organizers/minsa.png" 
+              alt="MINSA" 
+              className="h-16 sm:h-20 md:h-24 object-contain"
+            />
+          </div>
         </div>
       </section>
 
@@ -96,7 +113,7 @@ export default function ComponentCarrusel() {
           </h2>
           <p className="text-center font-work text-lg  font-semibold mb-6 text-[--primary]">{t("Sponsors.subtitle")}</p>
           <div className="relative px-2 sm:px-4">
-            {/* <Carousel
+            <Carousel
               plugins={[Autoplay({ delay: 3000, stopOnInteraction: true })]}
               className="w-full"
             >
@@ -105,7 +122,7 @@ export default function ComponentCarrusel() {
               </CarouselContent>
               <CarouselPrevious className="absolute left-[-50px] top-1/2 -translate-y-1/2 h-10 w-10 border-[#005883] text-[#005883] hover:bg-[#005883] hover:text-white" />
               <CarouselNext className="absolute right-[-50px] top-1/2 -translate-y-1/2 h-10 w-10 border-[#005883] text-[#005883] hover:bg-[#005883] hover:text-white" />
-            </Carousel> */}
+            </Carousel>
           </div>
         </div>
       </section>
