@@ -62,7 +62,7 @@ export default function NewsPage() {
     },
     {
       type: "article",
-      title: "",
+      title: t("articles.seventh.title"),
       author: "",
       description: t("articles.seventh.descripcion"),
       buttonText: "",

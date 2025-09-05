@@ -40,7 +40,7 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
   index === articles.length - 1 && articles.length % 2 !== 0
     ? 'md:col-span-2'
     : ''
-} ${article.imageUrl ? 'flex flex-row' : 'flex flex-col'}`}>
+} ${article.imageUrl ? 'flex flex-col md:flex-row' : 'flex flex-col'}`}>
   
   <div className={`${article.imageUrl ? 'flex-1' : 'w-full'} flex flex-col`}>
     <CardHeader className="p-4 sm:p-6">
@@ -85,11 +85,11 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
   </div>
   
   { article.imageUrl && (
-    <div className="w-1/2 p-4 sm:p-6 flex items-center">
+    <div className="p-4 sm:p-6 flex items-center">
       <img 
         src={article.imageUrl} 
         alt={article.title} 
-        className="w-full object-cover rounded-md" 
+        className="w-full max-w-[300px] object-cover rounded-md"
       />
     </div>
   )}

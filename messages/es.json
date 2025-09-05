@@ -226,11 +226,11 @@
       "second": {
         "time": "08:30 - 09:15",
         "details": {
-          "first": "SESSION I",
+          "first": "Session I",
           "details": "Salud Ocupacional en Perú: Datos y cifras (en español)"
         },
         "second": {
-          "title": "SESSION II",
+          "title": "Session II",
           "details": "Impacto a largo plazo de la exposición ocupacional a neurotóxicos: uso de ómicos como biomarcadores de efecto"
         }
       },
@@ -241,44 +241,44 @@
       "fourth": {
         "time": "09:30 - 10:15",
         "details": {
-          "first": "SESSION III",
+          "first": "Session III",
           "details": "El nexo de causalidad de las enfermedades ocupacionales (en español)"
         },
         "second": {
-          "title": "SESSION IV",
+          "title": "Session IV",
           "details": "Más allá del rash: Comprendiendo las afecciones dermatológicas ocupacionales complejas."
         }
       },
       "fifth": {
         "time": "10:15 - 11:00",
         "details": {
-          "first": "SESSION V",
+          "first": "Session V",
           "details": "Exposición ocupacional a asbestos y sílice: cambios tempranos en plasma y aliento exhalado"
         },
         "second": {
-          "title": "SESSION VI",
+          "title": "Session VI",
           "details": "Programas de Gestión de Discapacidad Laboral: Experiencias en Latin-América (en español)"
         }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
-          "first": "SESSION VII",
+          "first": "Session VII",
           "details": "SST en Industria de Gas y Petróleo: Abordar los perfiles de alto riesgo mediantes intervenciones estratégicas"
         },
         "second": {
-          "title": "SESSION VIII",
+          "title": "Session VIII",
           "details": "Trastornos Musculo-esqueléticos y teletrabajo: retos y oportunidades (en español)"
         }
       },
       "seventh": {
         "time": "11:55 - 12:40",
         "details": {
-          "first": "SESSION IX",
+          "first": "Session IX",
           "details": "Salud Músculo-esquelética en los ambientes de trabajo: Identificando riesgos e implementando soluciones reales (en español)"
         },
         "second": {
-          "title": "SESSION X",
+          "title": "Session X",
           "details": "Enfoques en la gestion de Ruido en los centros de trabajo: Historia de éxito"
         }
       },
@@ -296,13 +296,13 @@
         "title": "Sesiones Especiales",
         "details": {
           "first": {
-            "title": "SPECIAL SESSION I:",
+            "title": "Special Session I:",
             "details": "Asma Ocupacional: Diagnóstico y Manejo",
             "moderator": "SCOM",
             "panelists": "ICOH, SOPESO and SOMOMA"
           },
           "second": {
-            "title": "SPECIAL SESSION II:",
+            "title": "Special Session II:",
             "details": "Prevención de TME en centros de trabajo: ¿Los mejores programas? (Spanish)",
             "moderator": "ICOH",
             "panelists": "SOPERGO, ULAERGO and SCEPP"
@@ -331,11 +331,11 @@
         "time": "08:30 - 09:15",
         "details": {
           "first": {
-            "title": "SESSION XI",
+            "title": "Session XI",
             "details": "Toxicología ocupacional: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)"
           },
           "second": {
-            "title": "SESSION XII",
+            "title": "Session XII",
             "details": "Desafíos para la Vigilancia médica en Minería: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)"
           }
         }
@@ -348,11 +348,11 @@
         "time": "09:30 - 10:15",
         "details": {
           "first": {
-            "title": "SESSION XIII",
+            "title": "Session XIII",
             "details": "Discapacidad y Trabajo"
           },
           "second": {
-            "title": "SESSION XIV",
+            "title": "Session XIV",
             "details": "Guía para la Gestión de riesgos ocupacionales con enfoque de género (en español)"
           }
         }
@@ -361,11 +361,11 @@
         "time": "10:15 - 11:00",
         "details": {
           "first": {
-            "title": "SESSION XV",
+            "title": "Session XV",
             "details": "Adaptación a la pérdida de alternancia diaria de luz / oscuridad entre los trabajadores"
           },
           "second": {
-            "title": "SESSION XVI",
+            "title": "Session XVI",
             "details": "Cáncer y la capacidad/aptitud para trabajar"
           }
         }
@@ -374,11 +374,11 @@
         "time": "11:10 - 11:55",
         "details": {
           "first": {
-            "title": "SESSION XVII",
+            "title": "Session XVII",
             "details": "Protegiendo a nuestros protectores: ¿Por qué la vacunación impacta en los trabajadores de salud en Perú (en español)"
           },
           "second": {
-            "title": "SSESSION XVIII",
+            "title": "Session XVIII",
             "details": "Implementando la ISO 45001: Un camino hacia una major SST"
           }
         }
@@ -387,11 +387,11 @@
         "time": "11:55 - 12:40",
         "details": {
           "first": {
-            "title": "SESSION XIX",
+            "title": "Session XIX",
             "details": "Contaminación y co-exposición por Mercurio en la Cuenca Amazónica: En el centro de la crisis ambiental planetaria"
           },
           "second": {
-            "title": "SESSION XX",
+            "title": "Session XX",
             "details": "Salud Ocupacional en Pescadores y otros sectores informales."
           }
         }
@@ -409,13 +409,13 @@
         "time": "15:40 - 16:40",
         "details": {
           "first": {
-            "title": "SPECIAL SESSION III:",
+            "title": "Special Session III:",
             "details": "Daño a la salud y Discapacidad: Impacto en el ambiente de trabajo. (Spanish)",
             "moderator": "SCOM",
             "panelists": "ICOH and MINSA"
           },
           "second": {
-            "title": "SPECIAL SESSION IV:",
+            "title": "Special Session IV:",
             "details": "Salud Mental: los retos y oportunidades para profesionales de OHS",
             "moderator": "ICOH",
             "panelists": "SCOM, SOPESO, SCEPP"
@@ -636,6 +636,7 @@
         "button": "Leer articulo en PDF"
       },
       "seventh": {
+        "title": "¡Cada vez más cerca!",
         "descripcion": "Además de contar con el auspicio Académico y creditaje de la Facultad de MEDICINA HUMANA de la Universidad de Piura, las principales Sociedades Científicas de Seguridad y Salud Ocupacional y el Ministerio de Salud participarán del programa académico de este evento histórico en Latin-América. Por primera vez, el Comité Científico de ICOH de Medicina Ocupacional llegará a Latín-América. El contenido del programa académico y los Resúmenes de investigación presentados y aprobados se incluirán en la publicación de la revista WORK AND HEALTH. Empresas comprometidas con la SST en el país se unen para participar en este evento. Los grupos laborales con exposiciones y entornos laborales poco estudiados y atendidos aún, serán abordados en el programa académico."
       }
     },

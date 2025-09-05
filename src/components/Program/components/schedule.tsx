@@ -39,7 +39,7 @@ function Session({ time, title, details }: SessionProps) {
           "second" in details && (
             <div className="space-y-6">
               <div className="space-y-2">
-                <div className="font-semibold text-[--primary] text-[15px]">{details.first.title}</div>
+                <div className="text-lg font-semibold text-gray-900 mb-2">{details.first.title}</div>
                 <div className="text-[15px] leading-relaxed text-gray-600">{details.first.details}</div>
                 {details.first.moderator && (
                   <div className="text-[13px] text-gray-500 mt-2">
@@ -60,7 +60,7 @@ function Session({ time, title, details }: SessionProps) {
                 )}
               </div>
               <div className="space-y-2 pt-4 border-t border-gray-100">
-                <div className="font-semibold text-[--primary] text-[15px]">{details.second.title}</div>
+                <div className="text-lg font-semibold text-gray-900 mb-2">{details.second.title}</div>
                 <div className="text-[15px] leading-relaxed text-gray-600">{details.second.details}</div>
                 {details.second.moderator && (
                   <div className="text-[13px] text-gray-500 mt-2">
