@@ -436,6 +436,18 @@
   "Abstract": {
     "title": "ABSTRACTS",
     "subtitle": "Be part of our team!",
+    "call": {
+      "title": "CALL FOR ABSTRACTS",
+      "bestAction": "Calling all Occupational Health researchers!",
+      "action": "Submit your abstract for the 3rd International SC Occupational Medicine Conference in Lima, Peru (Dec 11 - 13, 2025)!",
+      "text": "The ICOH scientific committee on Occupational Medicine (SCOM) is seeking groundbreaking research across 25+ specialized topics including:"
+    },
+    "footer": {
+      "text": "and to consult on more topics you can send us an email to:",
+      "mail": "scomlima2025@gmail.com",
+      "quest": "WORKING ON INNOVATIVE WORKPLACE HEALTH RESEARCH?",
+      "action": "THIS IS YOUR PLATAFORM TO SHOWCASE YOUR FINDINGS TO A GLOBAL AUDIENCE!"
+    },
     "components": {
       "first": {
         "title": "INSTRUCTIONS FOR SUBMISSION OF ABSTRACTS",
@@ -578,6 +590,12 @@
     "subtitle2": "Discover the latest publications and articles of interest",
     "articles": {
       "title": "ARTICLES AND PUBLICATIONS",
+      "elperuano": {
+        "title": "Occupational health is the joint responsibility of employers and workers. This is required by law.",
+        "subtitle": "01/09/2025 Official Gazette El Peruano.",
+        "button": "Read full Article",
+        "descripcion": "Occupational physician Norvil Mera emphasizes the importance of both parties committing to adopting preventive measures that benefit both staff and the company. Currently, there is a greater demand for occupational physicians, not only because regulations require it, but also because employers and employees, in particular, are increasingly becoming aware that exposure to risks within the company where they work can result in a work-related illness or accident. Furthermore, any illness or mishap affecting the employee, apart from causing a decline in their performance or productivity at work, will end up altering their future life plan and quality of life, said the national secretary of Peru of the International Commission on Occupational Health (ICOH), Norvil Mera Chu, in statements to the Official Gazette El Peruano ."
+      },
       "first": {
         "title": "ICOH Newsletter 2024",
         "subtitle": "ICOH Newsletter",

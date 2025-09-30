@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Linkedin, Mail, Menu } from "lucide-react";
+import { Linkedin, Mail, Menu, Youtube } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
@@ -75,18 +75,14 @@ export default function Header() {
               alt="Facebook icon"
             />
           </Link> */}
-          {/* <Link
-            href="https://www.instagram.com/Icoh"
+          <Link
+            href="https://www.youtube.com/@SCOMICOH/shorts"
             target="_blank"
             className="sm:mx-4 text-end"
           >
-            <span className="hidden sm:inline">icoh.oficial</span>{" "}
-            <img
-              src="/img/instagram.png"
-              className="inline-block ml-3 h-6 w-6 sm:h-7 sm:w-7"
-              alt="Instagram icon"
-            />
-          </Link> */}
+            <span className="hidden sm:inline">Youtube</span>{" "}
+            <Youtube className="inline-block ml-3 h-6 w-6 sm:h-7 sm:w-7" />
+          </Link>
           <Link
             href="https://www.linkedin.com/in/norvil-antonio-mera-chu-49509855/"
             target="_blank"

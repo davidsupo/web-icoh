@@ -435,6 +435,18 @@
   "Abstract": {
     "title": "RESÚMENES CIENTÍFICOS",
     "subtitle": "¡Sé parte de nuestro equipo!",
+    "call": {
+      "title": "CONVOCATORIA DE RESUMENES",
+      "bestAction": "¡Llamamos a todos los investigadores en Salud Ocupacional!",
+      "action": "¡Envíe su resumen para la 3ERA CONFERENCIA DEL COMITÉ CIENTÍFICO DE MEDICINA OCUPACIONAL DE ICOH en Lima, Perú (del 11 al 13 de diciembre de 2025)!",
+      "text": "El comité científico de Medicina del Trabajo (SCOM) de ICOH busca investigaciones innovadoras en más de 25 temas especializados, incluyendo:"
+    },
+    "footer": {
+      "text": "Para consultas sobre más temas, puede enviarnos un correo electrónico a:",
+      "mail": "scomlima2025@gmail.com",
+      "quest": "¿TRABAJANDO EN INVESTIGACIÓN INNOVADORA SOBRE SALUD LABORAL?",
+      "action": "¡ESTA ES SU PLATAFORMA PARA PRESENTAR SUS HALLAZGOS A UNA AUDIENCIA GLOBAL!"
+    },
     "components": {
       "first": {
         "title": "INSTRUCCIONES PARA EL ENVÍO DE RESÚMENES",
@@ -578,6 +590,12 @@
     "subtitle2": "Descubre las últimas publicaciones y artículos de interés",
     "articles": {
       "title": "ARTICULOS Y PUBLICACIONES",
+      "elperuano": {
+        "title": "La salud ocupacional es corresponsabilidad de empleadores y trabajadores. La norma lo exige",
+        "subtitle": "01/09/2025 Diario Oficial El Peruano.",
+        "button": "Leer artículo completo",
+        "descripcion": "Médico ocupacional Norvil Mera destaca la importancia de que ambas partes asuman el compromiso de adoptar medidas de prevención que repercutan en beneficio del personal y de la empresa. En la actualidad, existe una mayor demanda de médicos ocupacionales, no solo porque la normativa lo exige, sino porque cada vez más los empresarios y trabajadores, sobre todo, están tomando conciencia de que la exposición a riesgos dentro de la compañía donde desempeñan sus tareas puede terminar en una enfermedad o un accidente de origen laboral. Además, el mal o percance que afecte al empleado, aparte de causar un desmedro en su rendimiento o productividad en el trabajo, terminará alterando su plan y calidad de vida a futuro, sostuvo el secretario nacional de Perú de la Comisión Internacional de Salud Ocupacional (ICOH), Norvil Mera Chu, en declaraciones al Diario Oficial El Peruano."
+      },
       "first": {
         "title": "ICOH Newsletter 2024",
         "subtitle": "Boletín ICOH",

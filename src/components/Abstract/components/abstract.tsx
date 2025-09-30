@@ -79,40 +79,19 @@ export default function Abstracts() {
       {/* Main Content - Improved spacing and readability */}
       <div className="container mx-auto px-4 mb-8 sm:mb-16 w-full py-6 sm:py-12">
         {/* Instructions Section */}
-        <div className="mb-8 sm:mb-16 max-w-3xl lg:max-w-5xl mx-auto">
-          <Card className="md:col-span-1">
-            <CardContent className="p-4 sm:p-6 md:p-8">
-              <h2 className="text-xl sm:text-2xl font-bold mb-4 text-[--primary] font-open">
-                {t("components.first.title")}
-              </h2>
-              <p className="mb-4 font-work text-sm sm:text-base">{t("components.first.subtitle")}</p>
-              <p className="mb-4 font-work text-sm sm:text-base">{t("components.first.firsttext")}</p>
-              <ul className="list-disc pl-4 sm:pl-6 mb-4 space-y-3 font-work text-sm sm:text-base">
-                <li>
-                  <span>{t("components.first.secondtext")}</span>
-                  <strong className="block text-xs sm:text-sm tracking-tighter mt-1 text-[--foreground]">
-                    {t("components.first.strongfirst")}
-                  </strong>
-                </li>
-                <li>
-                  <span>{t("components.first.thirdtext")}</span>
-                  <strong className="block text-xs sm:text-sm tracking-tighter mt-1 text-[--foreground]">
-                    {t("components.first.strongsecond")}
-                  </strong>
-                </li>
-              </ul>
-              <p className="mb-6 font-work text-sm sm:text-base">{t("components.first.fourthtext")}</p>
-              <a
-                href="mailto:scomlima2025@gmail.com?subject=Consulta%20SCOM%202025&body=Hola,%20tengo%20estos%20resúmenes%20para%20ser%20evaluados%20..."
-                className="block w-full sm:inline-block sm:w-auto"
-              >
-                <Button className="w-full sm:w-auto bg-[--accent] text-white hover:bg-[--primary] text-sm sm:text-base py-2 h-auto">
-                  <Mail className="mr-2 h-4 w-4" />
-                  scomlima2025@gmail.com
-                </Button>
-              </a>
-            </CardContent>
-          </Card>
+        <div className="py-6 sm:py-10 max-w-7xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold mb-4 text-[--primary] font-open text-center">
+            {t("call.title")}
+          </h2>
+          <p className="font-semibold text-lg mb-4 font-work text-gray-800 text-center">
+            {t("call.bestAction")}
+          </p>
+          <p className="mb-4 font-work text-sm sm:text-base text-gray-700">
+            {t("call.action")}
+          </p>
+          <p className="font-work text-sm sm:text-base text-gray-700">
+            {t("call.text")}
+          </p>
         </div>
 
         {/* Research Lines Section - Improved grid and card layout */}
@@ -139,6 +118,24 @@ export default function Abstracts() {
                 </CardHeader>
               </Card>
             ))}
+          </div>
+
+           <div className="mt-12 sm:mt-16 text-center px-4 max-w-3xl mx-auto">
+            <p className="font-work text-sm sm:text-base text-gray-700 mb-4">
+              {t("footer.text")}
+            </p>
+            <Button asChild className="mb-8 bg-[--primary] text-white hover:bg-[--accent]">
+              <a href="mailto:scomlima2025@gmail.com">
+                <Mail className="mr-2 h-4 w-4" />
+                {t("footer.mail")}
+              </a>
+            </Button>
+            <p className="font-bold font-work text-base sm:text-lg text-gray-800 mt-6">
+              {t("footer.quest")}
+            </p>
+            <p className="font-semibold font-open text-lg sm:text-xl text-[--primary] mt-2">
+              {t("footer.action")}
+            </p>
           </div>
         </div>
       </div>

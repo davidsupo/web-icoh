@@ -13,6 +13,7 @@ export interface Newsletter {
   buttonText: string
   pdfUrl: string,
   imageUrl?: string
+  maxWidth?: string
 }
 
 export interface Article {
@@ -23,6 +24,7 @@ export interface Article {
   buttonText: string
   pdfUrl: string,
   imageUrl?: string,
+  maxWidth?: string
 }
 
 interface ArticlesSectionProps {
@@ -37,7 +39,7 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
       <div className="grid gap-4 sm:gap-6 md:gap-8 md:grid-cols-2">
         {articles.map((article, index) => (
           <Card key={index} className={`${
-  index === articles.length - 1 && articles.length % 2 !== 0
+  article.imageUrl
     ? 'md:col-span-2'
     : ''
 } ${article.imageUrl ? 'flex flex-col md:flex-row' : 'flex flex-col'}`}>
@@ -62,6 +64,15 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
         <p className="text-sm sm:text-base text-gray-600">{article.description2}</p>
       )}
     </CardContent>
+    { article.imageUrl && (
+    <div className="p-4 sm:p-6 flex items-center sm:hidden justify-center">
+      <img 
+        src={article.imageUrl} 
+        alt={article.title} 
+        className={`w-full max-w-[${article.maxWidth || '300'}px] object-cover rounded-md`}
+      />
+    </div>
+  )}
     { article.buttonText && (<CardFooter className="p-4 sm:p-6">
       <Button
         asChild
@@ -85,11 +96,11 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
   </div>
   
   { article.imageUrl && (
-    <div className="p-4 sm:p-6 flex items-center">
+    <div className="p-4 sm:p-6 flex items-center hidden sm:block justify-center">
       <img 
         src={article.imageUrl} 
         alt={article.title} 
-        className="w-full max-w-[300px] object-cover rounded-md"
+        className={`w-full max-w-[${article.maxWidth || '300'}px] object-cover rounded-md`}
       />
     </div>
   )}

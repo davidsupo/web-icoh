@@ -10,6 +10,25 @@ export default function NewsPage() {
 
   const articles: (Newsletter | Article)[] = [
     {
+      type: "article",
+      title: t("articles.elperuano.title"),
+      author: "",
+      description: t("articles.elperuano.descripcion"),
+      buttonText: t("articles.elperuano.button"),
+      pdfUrl: "https://elperuano.pe/noticia/277964-la-salud-ocupacional-es-corresponsabilidad-de-empleadores-y-trabajadores-la-norma-lo-exige",
+      maxWidth: "500",
+      imageUrl: "/img/norvil_elperuano.png"
+    },
+    {
+      type: "article",
+      title: t("articles.seventh.title"),
+      author: "",
+      description: t("articles.seventh.descripcion"),
+      buttonText: "",
+      pdfUrl: "",
+      imageUrl: "/img/work_and_health.png"
+    },
+    {
       type: "newsletter",
       title: t("articles.first.title"),
       subtitle: t("articles.first.subtitle"),
@@ -59,15 +78,6 @@ export default function NewsPage() {
       description: t("articles.sixth.descripcion"),
       buttonText: t("articles.sixth.button"),
       pdfUrl: "/doc/articles/A multi-disciplinary and participative approach in Occupational Health and Safety to face the chall.pdf",
-    },
-    {
-      type: "article",
-      title: t("articles.seventh.title"),
-      author: "",
-      description: t("articles.seventh.descripcion"),
-      buttonText: "",
-      pdfUrl: "",
-      imageUrl: "/img/work_and_health.png"
     }
   ]
 
