@@ -227,11 +227,13 @@
         "time": "08:30 - 09:15",
         "details": {
           "first": "Session I",
-          "details": "Salud Ocupacional en Perú: Datos y cifras (en español)"
+          "details": "Salud Ocupacional en Perú: Datos y cifras (en español)",
+          "country": "Perú"
         },
         "second": {
           "title": "Session II",
-          "details": "Impacto a largo plazo de la exposición ocupacional a neurotóxicos: uso de ómicos como biomarcadores de efecto"
+          "details": "Impacto a largo plazo de la exposición ocupacional a neurotóxicos: uso de ómicos como biomarcadores de efecto",
+          "country": "USA"
         }
       },
       "third": {
@@ -242,44 +244,52 @@
         "time": "09:30 - 10:15",
         "details": {
           "first": "Session III",
-          "details": "El nexo de causalidad de las enfermedades ocupacionales (en español)"
+          "details": "El nexo de causalidad de las enfermedades ocupacionales (en español)",
+          "country": "Perú"
         },
         "second": {
           "title": "Session IV",
-          "details": "Más allá del rash: Comprendiendo las afecciones dermatológicas ocupacionales complejas."
+          "details": "Más allá del rash: Comprendiendo las afecciones dermatológicas ocupacionales complejas.",
+          "country": "New Zealand"
         }
       },
       "fifth": {
         "time": "10:15 - 11:00",
         "details": {
           "first": "Session V",
-          "details": "Exposición ocupacional a asbestos y sílice: cambios tempranos en plasma y aliento exhalado"
+          "details": "Exposición ocupacional a asbestos y sílice: cambios tempranos en plasma y aliento exhalado",
+          "country": "UK"
         },
         "second": {
           "title": "Session VI",
-          "details": "Programas de Gestión de Discapacidad Laboral: Experiencias en Latin-América (en español)"
+          "details": "Programas de Gestión de Discapacidad Laboral: Experiencias en Latin-América (en español)",
+          "country": "Colombia"
         }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
           "first": "Session VII",
-          "details": "SST en Industria de Gas y Petróleo: Abordar los perfiles de alto riesgo mediantes intervenciones estratégicas"
+          "details": "SST en Industria de Gas y Petróleo: Abordar los perfiles de alto riesgo mediantes intervenciones estratégicas",
+          "country": "Indonesia"
         },
         "second": {
           "title": "Session VIII",
-          "details": "Trastornos Musculo-esqueléticos y teletrabajo: retos y oportunidades (en español)"
+          "details": "Trastornos Musculo-esqueléticos y teletrabajo: retos y oportunidades (en español)",
+          "country": "Perú"
         }
       },
       "seventh": {
         "time": "11:55 - 12:40",
         "details": {
           "first": "Session IX",
-          "details": "Salud Músculo-esquelética en los ambientes de trabajo: Identificando riesgos e implementando soluciones reales (en español)"
+          "details": "Salud Músculo-esquelética en los ambientes de trabajo: Identificando riesgos e implementando soluciones reales (en español)",
+          "country": "Colombia"
         },
         "second": {
           "title": "Session X",
-          "details": "Enfoques en la gestion de Ruido en los centros de trabajo: Historia de éxito"
+          "details": "Enfoques en la gestion de Ruido en los centros de trabajo: Historia de éxito",
+          "country": "India"
         }
       },
       "eighth": {
@@ -332,11 +342,13 @@
         "details": {
           "first": {
             "title": "Session XI",
-            "details": "Toxicología ocupacional: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)"
+            "details": "Toxicología ocupacional: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)",
+            "country": "Perú"
           },
           "second": {
             "title": "Session XII",
-            "details": "Desafíos para la Vigilancia médica en Minería: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)"
+            "details": "Desafíos para la Vigilancia médica en Minería: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)",
+            "country": "Chile"
           }
         }
       },
@@ -349,11 +361,13 @@
         "details": {
           "first": {
             "title": "Session XIII",
-            "details": "Discapacidad y Trabajo"
+            "details": "Desafíos para la Vigilancia médica en Minería: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)",
+            "country": "Perú"
           },
           "second": {
             "title": "Session XIV",
-            "details": "Guía para la Gestión de riesgos ocupacionales con enfoque de género (en español)"
+            "details": "Guía para la Gestión de riesgos ocupacionales con enfoque de género (en español)",
+            "country": "(Argentina) ICOH SC WHW"
           }
         }
       },
@@ -362,11 +376,13 @@
         "details": {
           "first": {
             "title": "Session XV",
-            "details": "Adaptación a la pérdida de alternancia diaria de luz / oscuridad entre los trabajadores"
+            "details": "Adaptación a la pérdida de alternancia diaria de luz / oscuridad entre los trabajadores",
+            "country": "UK"
           },
           "second": {
             "title": "Session XVI",
-            "details": "Cáncer y la capacidad/aptitud para trabajar"
+            "details": "Cáncer y la capacidad/aptitud para trabajar",
+            "country": "Malasia"
           }
         }
       },
@@ -375,11 +391,13 @@
         "details": {
           "first": {
             "title": "Session XVII",
-            "details": "Protegiendo a nuestros protectores: ¿Por qué la vacunación impacta en los trabajadores de salud en Perú (en español)"
+            "details": "Protegiendo a nuestros protectores: ¿Por qué la vacunación impacta en los trabajadores de salud en Perú (en español)",
+            "country": "Perú"
           },
           "second": {
             "title": "Session XVIII",
-            "details": "Implementando la ISO 45001: Un camino hacia una major SST"
+            "details": "Implementando la ISO 45001: Un camino hacia una major SST",
+            "country": "Malasia"
           }
         }
       },
@@ -388,11 +406,13 @@
         "details": {
           "first": {
             "title": "Session XIX",
-            "details": "Contaminación y co-exposición por Mercurio en la Cuenca Amazónica: En el centro de la crisis ambiental planetaria"
+            "details": "Contaminación y co-exposición por Mercurio en la Cuenca Amazónica: En el centro de la crisis ambiental planetaria",
+            "country": "USA/Italia"
           },
           "second": {
             "title": "Session XX",
-            "details": "Salud Ocupacional en Pescadores y otros sectores informales."
+            "details": "Salud Ocupacional en Pescadores y otros sectores informales.",
+            "country": "Perú"
           }
         }
       },
@@ -445,7 +465,8 @@
       "text": "Para consultas sobre más temas, puede enviarnos un correo electrónico a:",
       "mail": "scomlima2025@gmail.com",
       "quest": "¿TRABAJANDO EN INVESTIGACIÓN INNOVADORA SOBRE SALUD LABORAL?",
-      "action": "¡ESTA ES SU PLATAFORMA PARA PRESENTAR SUS HALLAZGOS A UNA AUDIENCIA GLOBAL!"
+      "action": "¡ESTA ES SU PLATAFORMA PARA PRESENTAR SUS HALLAZGOS A UNA AUDIENCIA GLOBAL!",
+      "docHref": "Directrices para la presentación de resúmenes"
     },
     "components": {
       "first": {
@@ -484,6 +505,8 @@
     }
   },
   "Speaker": {
+    "buttonText": "Ver más",
+    "buttonCloseModal": "Cerrar",
     "title": "VOCES QUE INSPIRAN",
     "subtitle": "Historias, aprendizajes y perspectivas que hacen la diferencia",
     "title2": "EXPOSITORES",
@@ -520,6 +543,36 @@
         "name": "Dr. Diana Cuervo",
         "Nationality": "Colombia",
         "description": "Médico por la Pontifica Universidad Javeriana (Colombia), Especialista en salud ocupacional por la Universidad Jorge Tadeo Lozano, PhD en Salud Pública por la Universidad de Toronto (Canadá) donde participó en el programa de entrenamiento en Prevención de la Discapacidad Laboral."
+      },
+      "seventh": {
+        "name": "Dr. Roberto G. Lucchini",
+        "Nationality": "Italia",
+        "description": "Obtuvo su Certificación de Especialización (Certificación del Consejo) en Medicina del Trabajo en la Universidad de Parma, Italia. De 1992 a 2012, se desempeñó como médico y profesor de Medicina del Trabajo en la Universidad de Brescia, Italia. De enero de 2012 a junio de 2020, fue Director de la División de Medicina del Trabajo y Ambiental en la Escuela de Medicina Icahn en Mount Sinai, Nueva York. El Dr. Lucchini también fue Director del Centro de Datos del World Trade Center en Mount Sinai y Director del Centro de Educación e Investigación financiado por NIOSH para los estados de Nueva York y Nueva Jersey. En estas funciones, coordinó la vigilancia epidemiológica de la salud de los trabajadores involucrados en las operaciones de limpieza después del 11-S. También supervisó los programas de capacitación e investigación dentro de la red ERC, que incluye la Universidad de Rutgers, la Universidad de Nueva York, la Universidad de la Ciudad de Nueva York y el Instituto de Tecnología de Nueva Jersey. Desde 2020, el Dr. Lucchini es profesor del Departamento de Ciencias de la Salud Ambiental de la Facultad de Salud Pública de la Universidad Internacional de Florida y director del Programa de Formación en Neurociencia Ambiental T32, financiado por el NIEHS (https://tens.fiu.edu/). También mantiene una afiliación con la Universidad de Módena y Reggio Emilia (Italia)."
+      },
+      "eighth": {
+        "name": "Prof. Pierluigi Cocco, M.D., HonFFOM",
+        "Nationality": "Italia",
+        "description": "El Prof. Cocco fue nombrado profesor titular de Medicina del Trabajo en la Universidad de Cagliari, Italia, de enero de 2015 a septiembre de 2020, y actualmente es profesor honorario de Medicina del Trabajo en el Centro de Salud Ocupacional y Ambiental, División de Salud Poblacional, Facultad de Ciencias de la Salud, Universidad de Manchester, Reino Unido. Desde hace más de 40 años, su principal campo de investigación ha sido la epidemiología ocupacional y ambiental, en colaboración con la Rama de Epidemiología Ocupacional y Ambiental del Instituto Nacional del Cáncer de EE. UU. y la Agencia Internacional para la Investigación del Cáncer, y realizando investigaciones independientes en Italia. El Prof. Cocco ha sido miembro del Comité Científico de la Agencia Europea del Medio Ambiente hasta octubre de 2014 y del Grupo de Trabajo de Protección Planetaria de la Agencia Espacial Europea de 2013 a 2020. Autor de 395 publicaciones (302 incluidas en Scopus) y numerosas presentaciones en congresos científicos nacionales e internacionales. Índice H: 54; Citas: 10478. Revisor de diversas revistas profesionales internacionales. Ha impartido conferencias en diversas universidades e institutos de investigación de Italia, Reino Unido, Francia, EE. UU. y México. En 2015, el Prof. Cocco recibió la Beca Honoraria de la Facultad de Medicina del Trabajo del Reino Unido."
+      },
+      "ninth": {
+        "name": "Dr. José Ignacio Mendez",
+        "Nationality": "Chile",
+        "description": "Médico Cirujano, Universidad Católica de Chile, Especialista en Medicina del Trabajo y Ambiental (CONACEM 2025), Magíster en Seguridad y Salud Laboral, LMU Múnich, Magíster en Salud Pública, Universidad de Chile, Magíster en Administración en Salud, Universidad de los Andes, Diplomado en Salud Ocupacional y Salud Global, Universidad de Chile, Diplomado en Docencia Universitaria para Profesionales de la Salud, PUC, Diplomado en Medicina del Estilo de Vida (MEV), UDD, Diplomado en Investigación Docente Universitaria, USS Presidente de la Sociedad Chilena de Medicina del Trabajo (SOCHMET), Gerente de Salud y Emergencias, Cobre Chile, Anglo American, Exdirector de Salud Ocupacional y Administración Delegada, Ley 16.744, Codelco Andina Secretario de la Comisión Médica Central, Superintendencia de Pensiones Coordinador del Programa de Especialización Médica en Medicina del Trabajo y Medio Ambiente, USS Valdivia, Profesor de Salud Ocupacional y Medicina del Trabajo en la Universidad Católica de Chile, la Universidad Austral y la Universidad de Valparaíso, Asesor Técnico en Salud Ocupacional y Salud Ocupacional Medicina, Asociación Médica de Chile"
+      },
+      "tenth": {
+        "name": "Dr. Marcela P. Henriquez Caballero",
+        "Nationality": "Argentina",
+        "description": "Médica especialista en Medicina del Trabajo, Jefa de Salud Ocupacional en Coca Cola Andina Argentina y consultora en salud ocupacional. Secretaria del Comité Mujer, Salud y Trabajo de ICOH (2022–2027), con formación como especialista en Habilidades Directivas y múltiples diplomaturas y cursos en gestión, salud digital, riesgos psicosociales, liderazgo y agilidad organizacional. Docente de la Facultad de Ciencias Médicas de la Universidad Nacional de Cuyo, coautora del libro 'Medicina del Trabajo en la Argentina', y ponente y organizadora en congresos nacionales e internacionales sobre salud ocupacional, liderazgo femenino y riesgos psicosociales en Argentina, Paraguay, Chile, Guatemala y Barcelona."
+      },
+      "eleventh": {
+        "name": "Dr. Anantha Kumar Rajendran",
+        "Nationality": "Malasia",
+        "description": "El Dr. Anantha Kumar Rajendran, también conocido como el Dr. Ananth, es médico colegiado con una Licenciatura en Medicina y una Licenciatura en Cirugía (MBBS), además de una amplia experiencia multidisciplinaria en Seguridad y Salud Ocupacional (SST), Gestión de Riesgos, Salud Ambiental, Garantía de Calidad y Administración de la Salud. Su trayectoria abarca más de una década de contribuciones significativas en hospitales públicos, empresas privadas y plataformas de desarrollo comunitario."
+      },
+      "twelfth": {
+        "name": "Dr. Juan Ignacio Rincon Sarmiento",
+        "Nationality": "Colombia",
+        "description": "Médico por la Universidad Nacional de Colombia. Especialista en Gerencia de salud ocupacional. Magister en Seguridad y Salud en el Trabajo. Magister en Ergonomia. Consultor Médico ocupacional y Docente en Universidad Militar Nueva Granada, Universidad El Bosque, Universidad Nacional de Colombia, y Universidad Colegio Mayor de Cundinamarca. Autor de libros en la materia. Miembro de ICOH siendo activo en los comités científicos de Medicina Ocupacional (SCOM) y el de Epidemiologia Ocupacional (EPICOH). Board de la Sociedad Colombiana de Medicina Del Trabajo."
       }
     },
     "Nationals": {
@@ -574,6 +627,11 @@
         "name": "Elizabeth Barba",
         "Nationality": "Perú",
         "description": "Médico Cirujano egresada de la Universidad Nacional Mayor de San Marcos, con estudios de Maestría en Salud Ocupacional en la misma institución. Miembro de ACOEM, ICOH, MEDICHEM, SCOM, SOPESO y SOMOMA. Docente invitada en temas de Salud Ocupacional en la UNMSM y otras universidades. Consultora externa en Salud Ocupacional para diversas empresas."
+      },
+      "eleventh": {
+        "name": "Raúl Jesús Gomero Cuadra",
+        "Nationality": "Perú",
+        "description": "Médico Ocupacional y Responsable de Higiene Ocupacional del Consorcio Constructor Metro 2 Lima, desde el año 2016. Previamente, durante 15 años desarrollé labor de Médico Ocupacional en minería de tajo abierto para extracción de cobre y oro. Médico con segunda especialidad en Medicina Ocupacional y Medio Ambiente; Magister en Medicina Ocupacional y Medio Ambiente y egresado de las Maestrías de Salud Pública y Salud Global y Medicina con mención para médico especialista; Auditor Líder para OHSAS 18001:2007 y Auditor interno para ISO 9001:2015, ISO 14001:2015, SA 8000: 2014, Auditor Médico para la Calidad de Atención en Salud, Docente de la Universidad Peruana Cayetano Heredia, Universidad Peruana Antenor Orrego, Universidad Nacional de Ingeniería y Universidad Continental. Investigador con publicaciones en revistas científicas nacionales e internacionales."
       }
     }
   },

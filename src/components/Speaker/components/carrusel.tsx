@@ -60,6 +60,48 @@ export default function Carrusel() {
       nationality: t("International.sixth.Nationality"),
       description: t("International.sixth.description"),
       image: "/img/Characters/Cuervo.png",
+    },
+    {
+      id: 7,
+      name: t("International.seventh.name"),
+      nationality: t("International.seventh.Nationality"),
+      description: t("International.seventh.description"),
+      image: "/img/Characters/luchinni.jpg",
+    },
+    {
+      id: 8,
+      name: t("International.eighth.name"),
+      nationality: t("International.eighth.Nationality"),
+      description: t("International.eighth.description"),
+      image: "/img/Characters/pierluigi.png",
+    },
+    {
+      id: 9,
+      name: t("International.ninth.name"),
+      nationality: t("International.ninth.Nationality"),
+      description: t("International.ninth.description"),
+      image: "/img/Characters/ignaciomendez.png",
+    },
+    {
+      id: 10,
+      name: t("International.tenth.name"),
+      nationality: t("International.tenth.Nationality"),
+      description: t("International.tenth.description"),
+      image: "/img/Characters/marcelahenriquez.jpg",
+    },
+    {
+      id: 11,
+      name: t("International.eleventh.name"),
+      nationality: t("International.eleventh.Nationality"),
+      description: t("International.eleventh.description"),
+      image: "/img/Characters/ananthakumar.jpg",
+    },
+    {
+      id: 12,
+      name: t("International.twelfth.name"),
+      nationality: t("International.twelfth.Nationality"),
+      description: t("International.twelfth.description"),
+      image: "/img/Characters/juanignacio.jpg",
     }
   ];
 
@@ -134,7 +176,13 @@ export default function Carrusel() {
       description: t("Nationals.tenth.description"),
       image: "/img/subcomite/Barba Ortega.jpg", 
     },
-
+    {
+      id: 11,
+      name: t("Nationals.eleventh.name"),
+      nationality: t("Nationals.eleventh.Nationality"),
+      description: t("Nationals.eleventh.description"),
+      image: "/img/Characters/jesusgomero.png",
+    },
   ];
 
   const openModal = (speaker: Speaker) => {
@@ -164,14 +212,16 @@ export default function Carrusel() {
                     </div>
                     <div className="flex flex-col flex-grow justify-between">
                       <div className="space-y-2 text-center">
-                        <h3 className="font-semibold text-base line-clamp-2">{speaker.name}</h3>
-                        <p className="text-sm text-muted-foreground text-center"> {speaker.nationality} </p>
+                        <div className="h-12 flex items-center justify-center">
+                          <h3 className="font-semibold text-base line-clamp-2">{speaker.name}</h3>
+                        </div>
+                        <p className="text-sm text-muted-foreground text-center">{speaker.nationality}</p>
                       </div>
                       <Button 
                         className="mt-4 w-full bg-[--accent] text-white font-work hover:bg-[--primary]" 
                         onClick={() => openModal(speaker)}
                       >
-                        Ver más
+                        {t("buttonText")}
                       </Button>
                     </div>
                   </CardContent>

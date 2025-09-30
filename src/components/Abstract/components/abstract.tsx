@@ -136,6 +136,18 @@ export default function Abstracts() {
             <p className="font-semibold font-open text-lg sm:text-xl text-[--primary] mt-2">
               {t("footer.action")}
             </p>
+            <div className="mt-8 pt-6 border-t border-gray-200">
+              <Button asChild variant="outline" className="border-[--primary] text-[--primary] hover:bg-[--primary] hover:text-white">
+                <a
+                  href="/doc/Abstract.Submission.GuidelinesSCOM.ICOH.2025-DOC-20250526-WA0092.pdf"
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t("footer.docHref")}
+                </a>
+              </Button>
+            </div>
           </div>
         </div>
       </div>

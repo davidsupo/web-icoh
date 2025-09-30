@@ -3,10 +3,12 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Card, CardContent } from "@/components/ui/card";
 import { useTranslations } from "next-intl";
+import { count } from "console";
 
 interface SessionDetails {
   title?: string;
   details?: string;
+  country?: string;
   moderator?: string;
   panelists?: string;
   subdetails?: string;
@@ -41,6 +43,14 @@ function Session({ time, title, details }: SessionProps) {
               <div className="space-y-2">
                 <div className="text-lg font-semibold text-gray-900 mb-2">{details.first.title}</div>
                 <div className="text-[15px] leading-relaxed text-gray-600">{details.first.details}</div>
+                {details.first.country && (
+                  <div className="flex items-center gap-2 mt-2">
+                    <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-700">
+                      <span className="text-sm">🌍</span>
+                      {details.first.country}
+                    </span>
+                  </div>
+                )}
                 {details.first.moderator && (
                   <div className="text-[13px] text-gray-500 mt-2">
                     {t("moderator")}
@@ -62,6 +72,14 @@ function Session({ time, title, details }: SessionProps) {
               <div className="space-y-2 pt-4 border-t border-gray-100">
                 <div className="text-lg font-semibold text-gray-900 mb-2">{details.second.title}</div>
                 <div className="text-[15px] leading-relaxed text-gray-600">{details.second.details}</div>
+                {details.second.country && (
+                  <div className="flex items-center gap-2 mt-2">
+                    <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-700">
+                      <span className="text-sm">🌍</span>
+                      {details.second.country}
+                    </span>
+                  </div>
+                )}
                 {details.second.moderator && (
                   <div className="text-[13px] text-gray-500 mt-2">
                     {t("moderator")}
@@ -138,10 +156,12 @@ export default function Schedule() {
         first: {
           title: t("day2Schedule.second.details.first"),
           details: t("day2Schedule.second.details.details"),
+          country: t("day2Schedule.second.details.country"),
         },
         second: {
           title: t("day2Schedule.second.second.title"),
           details: t("day2Schedule.second.second.details"),
+          country: t("day2Schedule.second.second.country"),
         }
       }
     },
@@ -156,10 +176,12 @@ export default function Schedule() {
         first: {
           title: t("day2Schedule.fourth.details.first"),
           details: t("day2Schedule.fourth.details.details"),
+          country: t("day2Schedule.fourth.details.country"),
         },
         second: {
           title: t("day2Schedule.fourth.second.title"),
           details: t("day2Schedule.fourth.second.details"),
+          country: t("day2Schedule.fourth.second.country"),
         }
       }
     },
@@ -170,10 +192,12 @@ export default function Schedule() {
         first: {
           title: t("day2Schedule.fifth.details.first"),
           details: t("day2Schedule.fifth.details.details"),
+          country: t("day2Schedule.fifth.details.country"),
         },
         second: {
           title: t("day2Schedule.fifth.second.title"),
           details: t("day2Schedule.fifth.second.details"),
+          country: t("day2Schedule.fifth.second.country"),
         }
       }
     },
@@ -184,10 +208,12 @@ export default function Schedule() {
         first: {
           title: t("day2Schedule.sixth.details.first"),
           details: t("day2Schedule.sixth.details.details"),
+          country: t("day2Schedule.sixth.details.country"),
         },
         second: {
           title: t("day2Schedule.sixth.second.title"),
           details: t("day2Schedule.sixth.second.details"),
+          country: t("day2Schedule.sixth.second.country"),
         },
       },
     },
@@ -198,10 +224,12 @@ export default function Schedule() {
         first: {
           title: t("day2Schedule.seventh.details.first"),
           details: t("day2Schedule.seventh.details.details"),
+          country: t("day2Schedule.seventh.details.country"),
         },
         second: {
           title: t("day2Schedule.seventh.second.title"),
           details: t("day2Schedule.seventh.second.details"),
+          country: t("day2Schedule.seventh.second.country"),
         },
       },
     },
@@ -257,10 +285,12 @@ export default function Schedule() {
         first: {
           title: t("day3Schedule.second.details.first.title"),
           details: t("day3Schedule.second.details.first.details"),
+          country: t("day3Schedule.second.details.first.country"),
         },
         second: {
           title: t("day3Schedule.second.details.second.title"),
           details: t("day3Schedule.second.details.second.details"),
+          country: t("day3Schedule.second.details.second.country"),
         },
       },
     },
@@ -275,10 +305,12 @@ export default function Schedule() {
         first: {
           title: t("day3Schedule.fourth.details.first.title"),
           details: t("day3Schedule.fourth.details.first.details"),
+          country: t("day3Schedule.fourth.details.first.country"),
         },
         second: {
           title: t("day3Schedule.fourth.details.second.title"),
           details: t("day3Schedule.fourth.details.second.details"),
+          country: t("day3Schedule.fourth.details.second.country"),
         },
       }
     },
@@ -289,10 +321,12 @@ export default function Schedule() {
         first: {
           title: t("day3Schedule.fifth.details.first.title"),
           details: t("day3Schedule.fifth.details.first.details"),
+          country: t("day3Schedule.fifth.details.first.country"),
         },
         second: {
           title: t("day3Schedule.fifth.details.second.title"),
           details: t("day3Schedule.fifth.details.second.details"),
+          country: t("day3Schedule.fifth.details.second.country"),
         },
       },
     },
@@ -302,11 +336,13 @@ export default function Schedule() {
       details: {
         first: {
           title: t("day3Schedule.sixth.details.first.title"),
-          details: t("day3Schedule.sixth.details.first.details")
+          details: t("day3Schedule.sixth.details.first.details"),
+          country: t("day3Schedule.sixth.details.first.country"),
         },
         second: {
           title: t("day3Schedule.sixth.details.second.title"),
-          details: t("day3Schedule.sixth.details.second.details")
+          details: t("day3Schedule.sixth.details.second.details"),
+          country: t("day3Schedule.sixth.details.second.country"),
         },
       },
     },
@@ -317,10 +353,12 @@ export default function Schedule() {
         first: {
           title: t("day3Schedule.seventh.details.first.title"),
           details: t("day3Schedule.seventh.details.first.details"),
+          country: t("day3Schedule.seventh.details.first.country"),
         },
         second: {
           title: t("day3Schedule.seventh.details.second.title"),
           details: t("day3Schedule.seventh.details.second.details"),
+          country: t("day3Schedule.seventh.details.second.country"),
         },
       },
     },

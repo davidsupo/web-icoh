@@ -227,11 +227,13 @@
         "time": "08:30 - 09:15",
         "details": {
           "first": "SESSION I",
-          "details": "Occupational Health in Peru: The Facts & Figures (Spanish)"
+          "details": "Occupational Health in Peru: The Facts & Figures (Spanish)",
+          "country": "Perú"
         },
         "second": {
           "title": "SESSION II",
-          "details": "Long-term impacts of occupational exposure to neurotoxicants: use of omics as effect biomarkers"
+          "details": "Long-term impacts of occupational exposure to neurotoxicants: use of omics as effect biomarkers",
+          "country": "USA"
         }
       },
       "third": {
@@ -242,44 +244,52 @@
         "time": "09:30 - 10:15",
         "details": {
           "first": "SESSION III",
-          "details": "The Causality Nexus of Occupational Diseases (Spanish)"
+          "details": "The Causality Nexus of Occupational Diseases (Spanish)",
+          "country": "Perú"
         },
         "second": {
           "title": "SESSION IV",
-          "details": "Beyond the Red Itch: Understanding Complex Occupational Skin Conditions"
+          "details": "Beyond the Red Itch: Understanding Complex Occupational Skin Conditions",
+          "country": "New Zealand"
         }
       },
       "fifth": {
         "time": "10:15 - 11:00",
         "details": {
           "first": "SESSION V",
-          "details": "Occupational Exposure to asbestos and silica: early changes in plasma and the exhaled breath condensate"
+          "details": "Occupational Exposure to asbestos and silica: early changes in plasma and the exhaled breath condensate",
+          "country": "UK"
         },
         "second": {
           "title": "SESSION VI",
-          "details": "Work Disability Programs: Experiences in Latin America (Spanish)"
+          "details": "Work Disability Programs: Experiences in Latin America (Spanish)",
+          "country": "Colombia"
         }
       },
       "sixth": {
         "time": "11:10 - 11:55",
         "details": {
           "first": "SESSION VII",
-          "details": "Occupational Health in Oil & Gas Industry: Addressing High-Risk Profiles Through Strategies Interventions"
+          "details": "Occupational Health in Oil & Gas Industry: Addressing High-Risk Profiles Through Strategies Interventions",
+          "country": "Indonesia"
         },
         "second": {
           "title": "SESSION VIII",
-          "details": "MSD and Teleworking Challenges (Spanish)"
+          "details": "MSD and Teleworking Challenges (Spanish)",
+          "country": "Perú"
         }
       },
       "seventh": {
         "time": "11:55 - 12:40",
         "details": {
           "first": "SESSION IX",
-          "details": "Musculoskeletal Health in the Workplace: Identifying Risks and Implementing Solutions (Spanish)"
+          "details": "Musculoskeletal Health in the Workplace: Identifying Risks and Implementing Solutions (Spanish)",
+          "country": "Colombia"
         },
         "second": {
           "title": "SESSION X",
-          "details": "Approaches in Managing Noise at Workplace: A Success Story"
+          "details": "Approaches in Managing Noise at Workplace: A Success Story",
+          "country": "India"
         }
       },
       "eighth": {
@@ -332,11 +342,13 @@
         "details": {
           "first": {
             "title": "SESSION XI",
-            "details": "Occupational Toxicology: Intervention After Occupational Diseases-Overview on Medicine, Engineering, HR & Legal (Spanish)"
+            "details": "Occupational Toxicology: Intervention After Occupational Diseases-Overview on Medicine, Engineering, HR & Legal (Spanish)",
+            "country": "Perú"
           },
           "second": {
             "title": "SESSION XII",
-            "details": "Medical Surveillance Challenges at Mining companies: Intervention After Occupational Diseases- Overview on Medicine, Engineering, HR & Legal (Spanish)"
+            "details": "Medical Surveillance Challenges at Mining companies: Intervention After Occupational Diseases- Overview on Medicine, Engineering, HR & Legal (Spanish)",
+            "country": "Chile"
           }
         }
       },
@@ -349,11 +361,13 @@
         "details": {
           "first": {
             "title": "SESSION XIII",
-            "details": "Disability and Work"
+            "details": "Medical Surveillance Challenges at Construction: Intervention After Occupational Diseases- Overview on Medicine, Engineering, HR & Legal” (Spanish)",
+            "country": "Perú"
           },
           "second": {
             "title": "SESSION XIV",
-            "details": "Guide For Risk Management with Gender Vision (Spanish)"
+            "details": "Guide For Risk Management with Gender Vision (Spanish)",
+            "country": "Argentina ICOH SC WHW"
           }
         }
       },
@@ -362,11 +376,13 @@
         "details": {
           "first": {
             "title": "SESSION XV",
-            "details": "Adaptation To the Loss of Daily Light/Dark Alternation Among Workers"
+            "details": "Adaptation To the Loss of Daily Light/Dark Alternation Among Workers",
+            "country": "UK"
           },
           "second": {
             "title": "SESSION XIV",
-            "details": "Cancer & Work Capabilities"
+            "details": "Cancer & Work Capabilities",
+            "country": "Malasia"
           }
         }
       },
@@ -376,11 +392,13 @@
           "first": {
             "title": "SESSION XVII",
             "details": "Protecting Our Protectors: Why Vaccination Matters for Peruvian Health Workers",
-            "subdetails": "SC Women, Health and Work"
+            "subdetails": "SC Women, Health and Work",
+            "country": "Perú"
           },
           "second": {
             "title": "SESSION XVIII",
-            "details": "Implementing ISO 45001: A Path to Enhanced Occupational Health & Safety"
+            "details": "Implementing ISO 45001: A Path to Enhanced Occupational Health & Safety",
+            "country": "Malasia"
           }
         }
       },
@@ -389,11 +407,13 @@
         "details": {
           "first": {
             "title": "SESSION XIX",
-            "details": "Mercury Contamination and Co-exposures in the Amazon Basin: At the Center of the Planetary Environmental Crisis."
+            "details": "Mercury Contamination and Co-exposures in the Amazon Basin: At the Center of the Planetary Environmental Crisis.",
+            "country": "USA/Italia"
           },
           "second": {
             "title": "SESSION XX",
-            "details": "Occupational Health among Fishermen and other informal sectors"
+            "details": "Occupational Health among Fishermen and other informal sectors",
+            "country": "Perú"
           }
         }
       },
@@ -446,7 +466,8 @@
       "text": "and to consult on more topics you can send us an email to:",
       "mail": "scomlima2025@gmail.com",
       "quest": "WORKING ON INNOVATIVE WORKPLACE HEALTH RESEARCH?",
-      "action": "THIS IS YOUR PLATAFORM TO SHOWCASE YOUR FINDINGS TO A GLOBAL AUDIENCE!"
+      "action": "THIS IS YOUR PLATAFORM TO SHOWCASE YOUR FINDINGS TO A GLOBAL AUDIENCE!",
+      "docHref": "Abstract Submission Guideline "
     },
     "components": {
       "first": {
@@ -485,6 +506,8 @@
     }
   },
   "Speaker": {
+    "buttonText": "Review",
+    "buttonCloseModal": "Close",
     "title": "VOICES THAT INSPIRE",
     "subtitle": "Stories, learnings and perspectives that make a difference",
     "title2": "SPEAKERS",
@@ -521,6 +544,36 @@
         "name": "Dr. Diana Cuervo",
         "Nationality": "Colombia",
         "description": "Physician from the Pontifica Universidad Javeriana (Colombia), Specialist in Occupational Health from the Jorge Tadeo Lozano University, PhD in Public Health from the University of Toronto (Canada) where she participated in the training program in Prevention of Occupational Disability."
+      },
+      "seventh": {
+        "name": "Dr. Roberto G. Lucchini",
+        "Nationality": "Italia",
+        "description": "His Certification of Specialization (Board Certification) in Occupational Medicine from the University of Parma, Italy. From 1992 to 2012 he served as a MD and Professor of Occupational Medicine at the University of Brescia, Italy. From January 2012 to June 2020, he was the Director of the Division of Occupational and Environmental Medicine at the Icahn School of Medicine at Mount Sinai, New York. Dr. Lucchini was also the Director of the World Trade Center Data Center at Mount Sinai and the Director of the NIOSH funded Education and Research Center for the States of New York and New Jersey. In these capacities, he coordinated the epidemiological health surveillance of the workers involved in the clean-up operations after 9/11. He also supervised the training and research programs within the ERC network, which includes Rutgers University, NYU, CUNY, and the New Jersey Institute of Technology. Since 2020, Dr Lucchini is a Professor in the Department of Environmental Health Sciences at the School of Public Health, Florida International University, and Director of the NIEHS funded Training in Environmental Neuroscience T32 Program https://tens.fiu.edu/. He also maintains an affiliation with the University of Modena and Reggio Emilia, Italy."
+      },
+      "eighth": {
+        "name": "Prof. Pierluigi Cocco, M.D., HonFFOM",
+        "Nationality": "Italia",
+        "description": "Prof. Cocco was formerly appointed as ordinary professor of Occupational Medicine at the University of Cagliari, Italy, from January 2015 to September 2020, and is currently appointed as honorary professor of Occupational Medicine at the Centre for Occupational and Environmental Health Division of Population Health, School of Health Sciences, University of Manchester, U.K. Since more than 40 years, his main field of research has been occupational and environmental epidemiology, in collaboration with the Occupational and Environmental Epidemiology Branch of the U.S. National Cancer Institute and the International Agency for Research on Cancer, and by conducting independent research in Italy. Prof. Cocco has been a member of the Scientific Committee of the European Environment Agency, until October 2014, and of the Planetary Protection Working Group of the European Space Agency from 2013 to 2020. Author of 395 publications(302 listed in Scopus), and numerous presentations in national and international scientific conferences. H index: 54; citations: 10478. Referee for various international professional journals. Lectures in various Universities and Research Institutes in Italy, United Kingdom, France, U.S.A., and Mexico. In 2015, Prof. Cocco was awarded the Honorary Fellowship of the U.K. Faculty of Occupational Medicine."
+      },
+      "ninth": {
+        "name": "Dr. José Ignacio Mendez",
+        "Nationality": "Chile",
+        "description": "Surgeon, Catholic University of Chile, Specialist in Occupational and Environmental Medicine (CONACEM 2025), MSc in Occupational Safety and Health, LMU Munich, Master's in Public Health, University of Chile, Master's in Health Administration, University of Andes, Diploma in Occupational Health and Global Health, University of Chile, Diploma in University Teaching for Health Professionals, PUC, Diploma in Lifestyle Medicine (MEV), UDD, Diploma in University Teaching Research, USS President of the Chilean Society of Occupational Medicine (SOCHMET), Health and Emergency Manager, Cobre Chile, Anglo American, Former Director of Occupational Health and Delegated Administration, Law 16,744, Codelco Andina Secretary of the Central Medical Commission, Superintendency of Pensions Coordinator of the Medical Specialization Program in Occupational Medicine and the Environment, USS Valdivia, Professor of Occupational Health and Occupational Medicine at the Catholic University of Chile, the Austral University, and the University of Valparaíso, Technical Advisor in Occupational Health and Occupational Medicine, Chilean Medical Association"
+      },
+      "tenth": {
+        "name": "Dr. Marcela P. Henriquez Caballero",
+        "Nationality": "Argentina",
+        "description": "A physician specializing in Occupational Medicine, Head of Occupational Health at Coca-Cola Andina Argentina and an occupational health consultant. Secretary of the Women, Health, and Work Committee at ICOH (2022–2027), she has trained as a Management Skills Specialist and holds multiple diplomas and courses in management, digital health, psychosocial risks, leadership, and organizational agility. She is a professor at the Faculty of Medical Sciences of the National University of Cuyo, co-author of the book 'Occupational Medicine in Argentina', and a speaker and organizer at national and international conferences on occupational health, female leadership, and psychosocial risks in Argentina, Paraguay, Chile, Guatemala, and Barcelona."
+      },
+      "eleventh": {
+        "name": "Dr. Anantha Kumar Rajendran",
+        "Nationality": "Malasia",
+        "description": "Dr. Anantha Kumar Rajendran, also known as Dr. Ananth, is a registered medical practitioner with a Bachelor of Medicine and Bachelor of Surgery (MBBS), complemented by an extensive multidisciplinary background in Occupational Safety & Health (OSH), Risk Management, Environmental Health, Quality Assurance, and Healthcare Administration. His career spans over a decade of impactful contributions across government hospitals, private corporations, and community development platforms."
+      },
+      "twelfth": {
+        "name": "Dr. Juan Ignacio Rincon Sarmiento",
+        "Nationality": "Colombia",
+        "description": "He holds a doctorate degree from the National University of Colombia. He specializes in Occupational Health Management. He also holds a Master's degree in Occupational Health and Safety. He also holds a Master's degree in Ergonomics. He is an Occupational Medical Consultant and Professor at the Nueva Granada Military University, the El Bosque University, the National University of Colombia, and the Colegio Mayor de Cundinamarca University. He is the author of books on the subject. He is a member of ICOH, active on the Scientific Committees of Occupational Medicine (SCOM) and Occupational Epidemiology (EPICOH). He is also a Board Member of the Colombian Society of Occupational Medicine."
       }
     },
     "Nationals": {
@@ -574,6 +627,11 @@
         "name": "Elizabeth Barba",
         "Nationality": "Perú",
         "description": "Surgeon graduated from the Universidad Nacional Mayor de San Marcos, with Master's studies in Occupational Health at the same institution. Member of ACOEM, ICOH, MEDICHEM, SCOM, SOPESO and SOMOMA. Guest lecturer on Occupational Health at UNMSM and other universities. External consultant in Occupational Health for various companies."
+      },
+      "eleventh": {
+        "name": "Raúl Jesús Gomero Cuadra",
+        "Nationality": "Perú",
+        "description": "Occupational Physician and Head of Occupational Hygiene at the Metro 2 Lima Construction Consortium since 2016. Previously, for 15 years, he worked as an Occupational Physician in open-pit mining for copper and gold extraction. He holds a secondary specialty in Occupational Medicine and the Environment; a Master's degree in Occupational Medicine and the Environment and a graduate of the Master's degrees in Public Health and Global Health and Medicine with a mention for specialist physician; Lead Auditor for OHSAS 18001:2007 and Internal Auditor for ISO 9001:2015, ISO 14001:2015, SA 8000:2014; Medical Auditor for the Quality of Healthcare; Professor at the Cayetano Heredia University, the Antenor Orrego University, the National University of Engineering, and the Continental University. He is a researcher with publications in national and international scientific journals."
       }
     }
   },
