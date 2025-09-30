@@ -26,6 +26,7 @@ export default function NewsPage() {
       description: t("articles.seventh.descripcion"),
       buttonText: "",
       pdfUrl: "",
+      maxWidth: "300",
       imageUrl: "/img/work_and_health.png"
     },
     {

@@ -100,7 +100,8 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
       <img 
         src={article.imageUrl} 
         alt={article.title} 
-        className={`w-full max-w-[${article.maxWidth || '300'}px] object-cover rounded-md`}
+        className="w-full object-cover rounded-md"
+        style={{ maxWidth: `${article.maxWidth || '300'}px` }}
       />
     </div>
   )}
