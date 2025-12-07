@@ -25,6 +25,7 @@ export default function NewsPage() {
       author: "",
       description: t("articles.seventh.descripcion"),
       buttonText: "",
+      linkText: t("articles.seventh.linkText"),
       pdfUrl: "",
       maxWidth: "300",
       imageUrl: "/img/work_and_health.png"

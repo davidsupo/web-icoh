@@ -146,10 +146,6 @@ export default function Schedule() {
 
   const day2Schedule = [
     {
-      time: t("day2Schedule.first.time"),
-      title: t("day2Schedule.first.title"),
-    },
-    {
       time: t("day2Schedule.second.time"),
       title: "",
       details: {
@@ -164,10 +160,6 @@ export default function Schedule() {
           country: t("day2Schedule.second.second.country"),
         }
       }
-    },
-    {
-      time: t("day2Schedule.third.time"),
-      title: t("day2Schedule.third.title"),
     },
     {
       time: t("day2Schedule.fourth.time"),
@@ -234,10 +226,6 @@ export default function Schedule() {
       },
     },
     {
-      time: t("day2Schedule.eighth.time"),
-      title: t("day2Schedule.eighth.title"),
-    },
-    {
       time: t("day2Schedule.nineth.time"),
       title: t("day2Schedule.nineth.title"),
       details: t("day2Schedule.nineth.details"),
@@ -260,24 +248,12 @@ export default function Schedule() {
       },
     },
     {
-      time: t("day2Schedule.eleventh.time"),
-      title: t("day2Schedule.eleventh.title"),
-    },
-    {
       time: t("day2Schedule.twelfth.time"),
       title: t("day2Schedule.twelfth.title"),
-    },
-    {
-      time: t("day2Schedule.thirteenth.time"),
-      title: t("day2Schedule.thirteenth.title"),
-    },
+    }
   ];
 
   const day3Schedule = [
-    {
-      time: t("day3Schedule.first.time"),
-      title: t("day3Schedule.first.title"),
-    },
     {
       time: t("day3Schedule.second.time"),
       title: "",
@@ -293,10 +269,6 @@ export default function Schedule() {
           country: t("day3Schedule.second.details.second.country"),
         },
       },
-    },
-    {
-      time: t("day3Schedule.third.time"),
-      title: t("day3Schedule.third.title"),
     },
     {
       time: t("day3Schedule.fourth.time"),
@@ -363,10 +335,6 @@ export default function Schedule() {
       },
     },
     {
-      time: t("day3Schedule.eighth.time"),
-      title: t("day3Schedule.eighth.title"),
-    },
-    {
       time: t("day3Schedule.nineth.time"),
       title: t("day3Schedule.nineth.title"),
       details: t("day3Schedule.nineth.details"),
@@ -387,10 +355,6 @@ export default function Schedule() {
           panelists: t("day3Schedule.tenth.details.second.panelists"),
         },
       },
-    },
-    {
-      time: t("day3Schedule.eleventh.time"),
-      title: t("day3Schedule.eleventh.title"),
     },
     {
       time: t("day3Schedule.twelfth.time"),

@@ -78,22 +78,38 @@ export default function Abstracts() {
 
       {/* Main Content - Improved spacing and readability */}
       <div className="container mx-auto px-4 mb-8 sm:mb-16 w-full py-6 sm:py-12">
-        {/* Instructions Section */}
-        <div className="py-6 sm:py-10 max-w-7xl mx-auto">
-          <h2 className="text-xl sm:text-2xl font-bold mb-4 text-[--primary] font-open text-center">
-            {t("call.title")}
-          </h2>
-          <p className="font-semibold text-lg mb-4 font-work text-gray-800 text-center">
-            {t("call.bestAction")}
-          </p>
-          <p className="mb-4 font-work text-sm sm:text-base text-gray-700">
-            {t("call.action")}
-          </p>
-          <p className="font-work text-sm sm:text-base text-gray-700">
-            {t("call.text")}
-          </p>
-        </div>
+         {/* QR and Instructions Two-Column Section */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-16 items-center mb-12 sm:mb-20">
+          {/* Column 1: QR Code */}
+          <div className="text-center">
+            <div className="flex justify-center mb-4">
+              <img
+                src="/img/qr_abstracts.png"
+                alt="QR Code for abstracts download"
+                className="w-80 h-90 p-2 bg-white rounded-lg shadow-md"
+              />
+            </div>
+            <p className="font-work text-sm sm:text-base text-gray-700 max-w-md mx-auto">
+              {t("qr.text")}
+            </p>
+          </div>
 
+          {/* Column 2: Instructions */}
+          <div className="max-w-xl mx-auto">
+            <h2 className="text-xl sm:text-2xl font-bold mb-4 text-[--primary] font-open text-center md:text-left">
+              {t("call.title")}
+            </h2>
+            <p className="font-semibold text-lg mb-4 font-work text-gray-800 text-center md:text-left">
+              {t("call.bestAction")}
+            </p>
+            <p className="mb-4 font-work text-sm sm:text-base text-gray-700">
+              {t("call.action")}
+            </p>
+            <p className="font-work text-sm sm:text-base text-gray-700">
+              {t("call.text")}
+            </p>
+          </div>
+        </div>
         {/* Research Lines Section - Improved grid and card layout */}
         <div className="py-6 sm:py-10 max-w-7xl mx-auto">
           <h2 className="text-xl sm:text-2xl font-bold text-[--primary] text-center mb-3 sm:mb-4 font-open">

@@ -219,10 +219,6 @@
       }
     },
     "day2Schedule": {
-      "first": {
-        "time": "07:30 - 08:30",
-        "title": "Registration"
-      },
       "second": {
         "time": "08:30 - 09:15",
         "details": {
@@ -235,10 +231,6 @@
           "details": "Long-term impacts of occupational exposure to neurotoxicants: use of omics as effect biomarkers",
           "country": "USA"
         }
-      },
-      "third": {
-        "time": "09:15 - 09:30",
-        "title": "Coffee break"
       },
       "fourth": {
         "time": "09:30 - 10:15",
@@ -276,7 +268,7 @@
         "second": {
           "title": "SESSION VIII",
           "details": "MSD and Teleworking Challenges (Spanish)",
-          "country": "Perú"
+          "country": "Peru"
         }
       },
       "seventh": {
@@ -288,13 +280,9 @@
         },
         "second": {
           "title": "SESSION X",
-          "details": "Approaches in Managing Noise at Workplace: A Success Story",
-          "country": "India"
+          "details": "Managing Workers' Health in Mining: Experiences from Peru (In Spanish)",
+          "country": "Peru"
         }
-      },
-      "eighth": {
-        "time": "12:40 - 14:00",
-        "title": "Lunch and poster review"
       },
       "nineth": {
         "time": "14:00 - 15:30",
@@ -309,34 +297,22 @@
             "title": "SPECIAL SESSION I:",
             "details": "Occupational Asthma: Diagnosis and Management",
             "moderator": "SCOM",
-            "panelists": "ICOH, SOPESO and SOMOMA"
+            "panelists": "Society of Occupational Medicine and other invited specialists"
           },
           "second": {
             "title": "SPECIAL SESSION II:",
             "details": "Preventing MSD at Workplace: The Best Programs (Spanish)",
             "moderator": "ICOH",
-            "panelists": "SOPERGO, ULAERGO and SCEPP"
+            "panelists": "Peruvian Ergonomics Society, Latin American Ergonomics Union and Scientific Society of Ergonomics and Psychosociology of Peru"
           }
         }
       },
-      "eleventh": {
-        "time": "16:40 - 17:00",
-        "title": "Coffee break"
-      },
       "twelfth": {
-        "time": "19:00 - 19:45",
-        "title": "ICOH National Secretaries & SCOM Business Meetings"
-      },
-      "thirteenth": {
-        "time": "19:45 - 21:00",
-        "title": "Peruvian Cultural Night"
+        "time": "17:00",
+        "title": "ICOH National Secretaries & SCOM Business Meetings and Scientific Societies"
       }
     },
     "day3Schedule": {
-      "first": {
-        "time": "07:30 - 08:30",
-        "title": "Registration"
-      },
       "second": {
         "time": "08:30 - 09:15",
         "details": {
@@ -351,10 +327,6 @@
             "country": "Chile"
           }
         }
-      },
-      "third": {
-        "time": "09:15 - 09:30",
-        "title": "Coffee Break"
       },
       "fourth": {
         "time": "09:30 - 10:15",
@@ -417,10 +389,6 @@
           }
         }
       },
-      "eighth": {
-        "time": "12:40 - 14:00",
-        "title": "Lunch and poster review"
-      },
       "nineth": {
         "time": "14:00 - 15:30",
         "title": "Oral Presentations",
@@ -433,22 +401,18 @@
             "title": "SPECIAL SESSION III:",
             "details": "Impairment & Disability:  Impact on Working Environment (Spanish)",
             "moderator": "SCOM",
-            "panelists": "ICOH and MINSA"
+            "panelists": "Ministry of Health (MINSA) and International Specialists from ICOH"
           },
           "second": {
             "title": "SPECIAL SESSION IV:",
             "details": "Mental Health: The Challenges and Opportunities (English and Spanish)",
             "moderator": "ICOH",
-            "panelists": "SCOM, SOPESO, SCEPP"
+            "panelists": "ICOH Scientific Committee on Women, Health and Work, Peruvian Society of Occupational Health and ICOH Scientific Committee on Occupational Medicine"
           }
         }
       },
-      "eleventh": {
-        "time": "16:40 - 17:00",
-        "title": "Coffee break"
-      },
       "twelfth": {
-        "time": "19:00 - 21-00",
+        "time": "17:00",
         "title": "Closing Ceremony"
       }
     }
@@ -456,6 +420,9 @@
   "Abstract": {
     "title": "ABSTRACTS",
     "subtitle": "Be part of our team!",
+    "qr": {
+      "text": "Scan the following QR code to download the scientific abstracts"
+    },
     "call": {
       "title": "CALL FOR ABSTRACTS",
       "bestAction": "Calling all Occupational Health researchers!",
@@ -713,7 +680,8 @@
       },
       "seventh": {
         "title": "Getting Closer!",
-        "descripcion": "In addition to the academic sponsorship and accreditation of the Faculty of Human Medicine of the University of Piura, the leading Scientific Societies of Occupational Safety and Health and the Ministry of Health will participate in the academic program of this historic event in Latin America. For the first time, the ICOH Scientific Committee on Occupational Medicine will visit Latin America. The content of the academic program and the presented and approved research abstracts will be included in the publication of the journal WORK AND HEALTH. Companies committed to OSH in the country are joining forces to participate in this event. Occupational groups with exposures and work environments that are still understudied and underserved will be addressed in the academic program."
+        "descripcion": "In addition to the academic sponsorship and accreditation of the Faculty of Human Medicine of the University of Piura, the leading Scientific Societies of Occupational Safety and Health and the Ministry of Health will participate in the academic program of this historic event in Latin America. For the first time, the ICOH Scientific Committee on Occupational Medicine will visit Latin America. The content of the academic program and the presented and approved research abstracts will be included in the publication of the journal WORK AND HEALTH. Companies committed to OSH in the country are joining forces to participate in this event. Occupational groups with exposures and work environments that are still understudied and underserved will be addressed in the academic program.",
+        "linkText": "To learn more about Work and Health, visit the journal homepage at: "
       }
     },
     "events": {

@@ -11,6 +11,7 @@ export interface Newsletter {
   year: string
   volume: string
   buttonText: string
+  linkText?: string
   pdfUrl: string,
   imageUrl?: string
   maxWidth?: string
@@ -22,6 +23,7 @@ export interface Article {
   author: string
   description: string
   buttonText: string
+  linkText?: string
   pdfUrl: string,
   imageUrl?: string,
   maxWidth?: string
@@ -73,6 +75,21 @@ export default function ArticlesSection({ articles, sectionTitle }: ArticlesSect
       />
     </div>
   )}
+    { article.linkText && (
+      <CardFooter className="p-4 sm:p-6 pt-0">
+        <p className="font-work text-sm sm:text-base text-gray-600 leading-relaxed">
+          {article.linkText}
+          <a
+            href="https://www.sciltp.com/journals/wah/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="ml-1 font-semibold text-[--primary] hover:text-[--accent] hover:underline break-all"
+          >
+            https://www.sciltp.com/journals/wah/
+          </a>
+        </p>
+      </CardFooter>
+    )}
     { article.buttonText && (<CardFooter className="p-4 sm:p-6">
       <Button
         asChild

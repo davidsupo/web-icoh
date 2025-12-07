@@ -219,10 +219,6 @@
       }
     },
     "day2Schedule": {
-      "first": {
-        "time": "07:30 - 08:30",
-        "title": "Registro"
-      },
       "second": {
         "time": "08:30 - 09:15",
         "details": {
@@ -235,10 +231,6 @@
           "details": "Impacto a largo plazo de la exposición ocupacional a neurotóxicos: uso de ómicos como biomarcadores de efecto",
           "country": "USA"
         }
-      },
-      "third": {
-        "time": "09:15 - 09:30",
-        "title": "Pausa para el café"
       },
       "fourth": {
         "time": "09:30 - 10:15",
@@ -288,13 +280,9 @@
         },
         "second": {
           "title": "Session X",
-          "details": "Enfoques en la gestion de Ruido en los centros de trabajo: Historia de éxito",
-          "country": "India"
+          "details": "Gestión de la Salud de los Trabajadores en Minería: Experiencias desde Perú (En español)",
+          "country": "Perú"
         }
-      },
-      "eighth": {
-        "time": "12:40 - 14:00",
-        "title": "Almuerzo y revisión de carteles"
       },
       "nineth": {
         "time": "14:00 - 15:30",
@@ -309,34 +297,22 @@
             "title": "Special Session I:",
             "details": "Asma Ocupacional: Diagnóstico y Manejo",
             "moderator": "SCOM",
-            "panelists": "ICOH, SOPESO and SOMOMA"
+            "panelists": "Sociedad de Medicina Ocupacional y otros especialistas invitados"
           },
           "second": {
             "title": "Special Session II:",
             "details": "Prevención de TME en centros de trabajo: ¿Los mejores programas? (Spanish)",
             "moderator": "ICOH",
-            "panelists": "SOPERGO, ULAERGO and SCEPP"
+            "panelists": "Sociedad Peruana de Ergonomía, Unión Latinoamericana de Ergonomía y Sociedad Científica de Ergonomía y Psicosociología del Perú"
           }
         }
       },
-      "eleventh": {
-        "time": "16:40 - 17:00",
-        "title": "Pausa para el café"
-      },
       "twelfth": {
-        "time": "19:00 - 19:45",
-        "title": "Encuentro y mesa de trabajo de Secretarios Nacionales de ICOH asistentes y SCOM."
-      },
-      "thirteenth": {
-        "time": "19:45 - 21:00",
-        "title": "Noche Cultural Peruana"
+        "time": "17:00",
+        "title": "Encuentro y mesa de trabajo de Secretarios Nacionales de ICOH asistentes, SCOM y Sociedades científicas"
       }
     },
     "day3Schedule": {
-      "first": {
-        "time": "07:30 - 08:30",
-        "title": "Registro"
-      },
       "second": {
         "time": "08:30 - 09:15",
         "details": {
@@ -351,10 +327,6 @@
             "country": "Chile"
           }
         }
-      },
-      "third": {
-        "time": "09:15 - 09:30",
-        "title": "Pausa para el café"
       },
       "fourth": {
         "time": "09:30 - 10:15",
@@ -416,10 +388,6 @@
           }
         }
       },
-      "eighth": {
-        "time": "12:40 - 14:00",
-        "title": "Almuerzo y revisión de carteles"
-      },
       "nineth": {
         "time": "14:00 - 15:30",
         "title": "Presentaciones Orales",
@@ -432,22 +400,18 @@
             "title": "Special Session III:",
             "details": "Daño a la salud y Discapacidad: Impacto en el ambiente de trabajo. (Spanish)",
             "moderator": "SCOM",
-            "panelists": "ICOH and MINSA"
+            "panelists": "Ministerio de Salud (MINSA) y especialistas Internacionales de ICOH"
           },
           "second": {
             "title": "Special Session IV:",
             "details": "Salud Mental: los retos y oportunidades para profesionales de OHS",
             "moderator": "ICOH",
-            "panelists": "SCOM, SOPESO, SCEPP"
+            "panelists": "Comité Científico de ICOH de Mujer, Salud y Trabajo, Sociedad Peruana de Salud Ocupacional y Comité Científico de ICOH de Medicina Ocupacional"
           }
         }
       },
-      "eleventh": {
-        "time": "16:40 - 17:00",
-        "title": "Pausa para el café"
-      },
       "twelfth": {
-        "time": "19:00 - 21-00",
+        "time": "17:00",
         "title": "Cierre del evento"
       }
     }
@@ -455,6 +419,9 @@
   "Abstract": {
     "title": "RESÚMENES CIENTÍFICOS",
     "subtitle": "¡Sé parte de nuestro equipo!",
+    "qr": {
+      "text": "Escanee el siguiente código QR para descargar los resúmenes científicos"
+    },
     "call": {
       "title": "CONVOCATORIA DE RESUMENES",
       "bestAction": "¡Llamamos a todos los investigadores en Salud Ocupacional!",
@@ -713,7 +680,8 @@
       },
       "seventh": {
         "title": "¡Cada vez más cerca!",
-        "descripcion": "Además de contar con el auspicio Académico y creditaje de la Facultad de MEDICINA HUMANA de la Universidad de Piura, las principales Sociedades Científicas de Seguridad y Salud Ocupacional y el Ministerio de Salud participarán del programa académico de este evento histórico en Latin-América. Por primera vez, el Comité Científico de ICOH de Medicina Ocupacional llegará a Latín-América. El contenido del programa académico y los Resúmenes de investigación presentados y aprobados se incluirán en la publicación de la revista WORK AND HEALTH. Empresas comprometidas con la SST en el país se unen para participar en este evento. Los grupos laborales con exposiciones y entornos laborales poco estudiados y atendidos aún, serán abordados en el programa académico."
+        "descripcion": "Además de contar con el auspicio Académico y creditaje de la Facultad de MEDICINA HUMANA de la Universidad de Piura, las principales Sociedades Científicas de Seguridad y Salud Ocupacional y el Ministerio de Salud participarán del programa académico de este evento histórico en Latin-América. Por primera vez, el Comité Científico de ICOH de Medicina Ocupacional llegará a Latín-América. El contenido del programa académico y los Resúmenes de investigación presentados y aprobados se incluirán en la publicación de la revista WORK AND HEALTH. Empresas comprometidas con la SST en el país se unen para participar en este evento. Los grupos laborales con exposiciones y entornos laborales poco estudiados y atendidos aún, serán abordados en el programa académico.",
+        "linkText": "Para obtener más información sobre Trabajo y Salud, visite la página de inicio de la revista en:"
       }
     },
     "events": {
