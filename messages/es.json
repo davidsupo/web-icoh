@@ -182,8 +182,20 @@
     },
     "Sponsors": {
       "title": "AUSPICIADORES",
-      "subtitle": "Te invitamos a que seas parte de este gran evento de ICOH que se llevará a cabo en Lima, Perú. Puedes contactarte con nosotros para recibir mayor información a través del siguiente email:scomlima2025@gmail.com con copia a msadnmch@hotmail.com",
+      "subtitle": "Empresas comprometidas con mejorar la Salud de los Trabajadores están participando en el evento",
       "tag": "Auspiciadores"
+    },
+    "Shipibo-participation": {
+      "text": "Contaremos con la participación del Colectivo Shipibo Muralista"
+    },
+    "Academic-society": {
+      "title": "Sociedades Científicas de Salud Ocupacional de Latin-América y Perú"
+    },
+    "Academic-sponsorship": {
+      "text": "Contamos con el auspicio académico mediante oficio N° AA-008-2025 de la Facultad de Medicina Humana de la Universidad de Piura"
+    },
+    "Academic-support": {
+      "title": "Este evento cuenta con el soporte académico de"
     },
     "Co-organizers": {
       "title": "AUSPICIADORES ACADÉMICOS",
@@ -333,7 +345,7 @@
         "details": {
           "first": {
             "title": "Session XIII",
-            "details": "Desafíos para la Vigilancia médica en Minería: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)",
+            "details": "Desafíos para la Vigilancia médica en Construcción: Intervención tras el diagnóstico de enfermedad ocupacional-enfoque integral medico, ingenieril, RRHH y legal (en español)",
             "country": "Perú"
           },
           "second": {
